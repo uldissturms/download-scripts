@@ -27,3 +27,8 @@ typescript
 ├── pages.csv     # page urls containing videos (first line contains *url* header)
 └── videos.txt    # list of signed URLs to download
 ```
+
+### requirements
+
+* unix based shell
+* python 3
