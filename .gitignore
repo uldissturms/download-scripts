@@ -1,3 +1,4 @@
 *.webm
 log.html
 videos.txt
+.DS_Store

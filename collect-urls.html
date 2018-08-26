@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-    <title>collect-urls</title>
-  </head>
-  <body>
-    <table cellpadding="1" cellspacing="1" border="1">
-      <thead>
-        <tr><td rowspan="1" colspan="3">echo-urls</td></tr>
-      </thead>
-      <tbody>
-        <tr><td>loadVars</td><td>pages.csv<datalist><option>pages.csv</option><option></option><option>data.csv</option><option>page.csv</option></datalist></td><td></td> </tr>
-        <tr><td>open</td><td>${url}<datalist><option>${url}</option><option></option></datalist></td><td></td> </tr>
-        <tr><td>ajaxWaitAndWait</td><td><datalist><option></option></datalist></td><td></td> </tr>
-        <tr><td>domWaitAndWait</td><td><datalist><option></option><option></option></datalist></td><td></td> </tr>
-        <tr><td>domWaitAndWait</td><td><datalist><option></option><option></option></datalist></td><td></td> </tr>
-        <tr><td>ajaxWaitAndWait</td><td><datalist><option></option></datalist></td><td></td> </tr>
-        <tr><td>domWaitAndWait</td><td><datalist><option></option><option></option></datalist></td><td></td> </tr>
-        <tr><td>domWaitAndWait</td><td><datalist><option></option><option></option></datalist></td><td></td> </tr>
-        <tr><td>storeAttribute</td><td>//video@src<datalist><option>//video@src</option></datalist></td><td>video</td> </tr>
-        <tr><td>echo</td><td>:URL:${video}:URL:<datalist><option>:URL:${video}:URL:</option></datalist></td><td></td> </tr>
-        <tr><td>endLoadVars</td><td><datalist><option>videos.csv,1,video</option><option>videos.csv,1</option><option>videos.csv</option><option>data.csv,1,last</option><option></option></datalist></td><td></td>
-        </tr>
-      </tbody></table>
-  </body>
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>collect-urls</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">echo-urls</td></tr>
+</thead>
+<tbody>
+<tr><td>loadVars</td><td>pages.csv<datalist><option>pages.csv</option><option></option><option>data.csv</option><option>page.csv</option></datalist></td><td></td>
+</tr>
+<tr><td>open</td><td>${url}<datalist><option>${url}</option><option></option></datalist></td><td></td>
+</tr>
+<tr><td>ajaxWaitAndWait</td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+<tr><td>domWaitAndWait</td><td>3000<datalist><option>3000</option></datalist></td><td>3000</td>
+</tr>
+<tr><td>storeAttribute</td><td>//video@src<datalist><option>//video@src</option></datalist></td><td>video</td>
+</tr>
+<tr><td>echo</td><td>:URL:${video}:URL:<datalist><option>:URL:${video}:URL:</option></datalist></td><td></td>
+</tr>
+<tr><td>endLoadVars</td><td><datalist><option>videos.csv,1,video</option><option>videos.csv,1</option><option>videos.csv</option><option>data.csv,1,last</option><option></option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
 </html>
