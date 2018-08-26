@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 import re
-from html.parser import HTMLParser
+from html import unescape
 
 course=sys.argv[1]
 
@@ -10,6 +10,5 @@ text=Path(path).read_text()
 
 p=re.compile(':URL:(http.*?):URL:')
 
-html_parser=HTMLParser()
 for url in p.findall(text):
-    print(html_parser.unescape(url))
+    print(unescape(url))
