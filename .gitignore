@@ -1,4 +1,6 @@
 *.webm
+*.mp4
 log.html
 videos.txt
+videos.json
 .DS_Store
