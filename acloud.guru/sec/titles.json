@@ -1,0 +1,3235 @@
+{
+    "data": {
+        "getCourses": [
+            {
+                "title": "Certified Security - Specialty",
+                "uniqueid": "aws-certified-security-specialty",
+                "url": "aws-certified-security-specialty",
+                "artworkUrl": "https://acloudguru-content-assets-production.s3-accelerate.amazonaws.com/aws-certified-security-specialty-2-square.png",
+                "changelogs": [
+                    {
+                        "date": "2018-10-01T20:02:40.380Z",
+                        "description": "Updated a VPC Lecture.",
+                        "author": "linkedin|9k1sAi8dfa"
+                    },
+                    {
+                        "date": "2018-10-01T16:31:32.159Z",
+                        "description": "Updated Lectures",
+                        "author": "linkedin|9k1sAi8dfa"
+                    }
+                ],
+                "metadata": {
+                    "createdDate": null,
+                    "updatedDate": "2018-10-01T20:02:40.380Z",
+                    "notifyUpdatedDate": "2018-10-01T20:02:40.380Z"
+                },
+                "sections": [
+                    {
+                        "title": "Introduction To The Course",
+                        "url": "e5365801-3631-e557-6205-1ffe3917299a",
+                        "sequence": 0,
+                        "sectionIdentifier": "e5365801-3631-e557-6205-1ffe3917299a",
+                        "components": [
+                            {
+                                "title": "Introduction",
+                                "url": "ce33f75a-5697-5082-50dd-9169a2e714cb",
+                                "sequence": 0,
+                                "componentIdentifier": "ce33f75a-5697-5082-50dd-9169a2e714cb",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 117,
+                                    "videosources": [
+                                        {
+                                            "duration": 117
+                                        },
+                                        {
+                                            "duration": 117
+                                        },
+                                        {
+                                            "duration": 117
+                                        },
+                                        {
+                                            "duration": 117
+                                        },
+                                        {
+                                            "duration": 117
+                                        },
+                                        {
+                                            "duration": 117
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Exam Blueprint",
+                                        "url": "https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS_Certified_Security_Specialty_Exam_Guide_v1.5.pdf",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Course updates for the beta exam 2018",
+                                        "url": "https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L4NjG6uivkVrtlng7PK/is-someone-from-acloudguru-team-monitoring-this-security-course-forum-?answer=-L4Plwix5LGD9z_avkrR",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The Exam Blueprint",
+                                "url": "b838b6d9-d6c5-63d0-6d0a-a959dae63115",
+                                "sequence": 1,
+                                "componentIdentifier": "b838b6d9-d6c5-63d0-6d0a-a959dae63115",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 232,
+                                    "videosources": [
+                                        {
+                                            "duration": 232
+                                        },
+                                        {
+                                            "duration": 232
+                                        },
+                                        {
+                                            "duration": 232
+                                        },
+                                        {
+                                            "duration": 232
+                                        },
+                                        {
+                                            "duration": 232
+                                        },
+                                        {
+                                            "duration": 232
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS - Exam Blue print (final)",
+                                        "url": "https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS_Certified_Security_Specialty_Exam_Guide_v1.5.pdf",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Course updates for the beta exam 2018",
+                                        "url": "https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L4NjG6uivkVrtlng7PK/is-someone-from-acloudguru-team-monitoring-this-security-course-forum-?answer=-L4Plwix5LGD9z_avkrR",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Security 101",
+                        "url": "11050f3d-0362-ea01-f278-88368014a1cc",
+                        "sequence": 1,
+                        "sectionIdentifier": "11050f3d-0362-ea01-f278-88368014a1cc",
+                        "components": [
+                            {
+                                "title": "Security Basics",
+                                "url": "6b7857a0-5853-93af-2827-ba028b4021f1",
+                                "sequence": 0,
+                                "componentIdentifier": "0d9d1866-ed42-b17a-2395-034e3213d46f",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 527,
+                                    "videosources": [
+                                        {
+                                            "duration": 527
+                                        },
+                                        {
+                                            "duration": 527
+                                        },
+                                        {
+                                            "duration": 527
+                                        },
+                                        {
+                                            "duration": 527
+                                        },
+                                        {
+                                            "duration": 527
+                                        },
+                                        {
+                                            "duration": 527
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Security of AWS",
+                                "url": "2700a709-10ce-21b7-8df7-d6b2e7469e09",
+                                "sequence": 1,
+                                "componentIdentifier": "2700a709-10ce-21b7-8df7-d6b2e7469e09",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 708,
+                                    "videosources": [
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Security Link",
+                                        "url": "https://aws.amazon.com/security",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Shared Responsibility Model",
+                                "url": "a3819f84-7962-8521-b401-08f0e50fccce",
+                                "sequence": 2,
+                                "componentIdentifier": "a3819f84-7962-8521-b401-08f0e50fccce",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 570,
+                                    "videosources": [
+                                        {
+                                            "duration": 570
+                                        },
+                                        {
+                                            "duration": 570
+                                        },
+                                        {
+                                            "duration": 570
+                                        },
+                                        {
+                                            "duration": 570
+                                        },
+                                        {
+                                            "duration": 570
+                                        },
+                                        {
+                                            "duration": 570
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Shared Responsibility",
+                                        "url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Overview of Security Processes",
+                                        "url": "https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Security in AWS",
+                                "url": "8d564856-347e-d0a0-18e8-a4c8e728e9ee",
+                                "sequence": 3,
+                                "componentIdentifier": "8d564856-347e-d0a0-18e8-a4c8e728e9ee",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 703,
+                                    "videosources": [
+                                        {
+                                            "duration": 703
+                                        },
+                                        {
+                                            "duration": 703
+                                        },
+                                        {
+                                            "duration": 703
+                                        },
+                                        {
+                                            "duration": 703
+                                        },
+                                        {
+                                            "duration": 703
+                                        },
+                                        {
+                                            "duration": 703
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Wrap Up",
+                                "url": "b3d6003b-ea3b-7b02-635d-922e04924a6c",
+                                "sequence": 4,
+                                "componentIdentifier": "b3d6003b-ea3b-7b02-635d-922e04924a6c",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 308,
+                                    "videosources": [
+                                        {
+                                            "duration": 308
+                                        },
+                                        {
+                                            "duration": 308
+                                        },
+                                        {
+                                            "duration": 308
+                                        },
+                                        {
+                                            "duration": 308
+                                        },
+                                        {
+                                            "duration": 308
+                                        },
+                                        {
+                                            "duration": 308
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Identity Access Management, S3 & Security Policies",
+                        "url": "a9b42538-b06a-8291-8802-21b72c0f2f27",
+                        "sequence": 2,
+                        "sectionIdentifier": "305a146f-6a9d-f82e-8f5a-0b2845d9db9c",
+                        "components": [
+                            {
+                                "title": "IAM Recap",
+                                "url": "007c08d2-227c-25d7-e6e0-73787156c317",
+                                "sequence": 0,
+                                "componentIdentifier": "8e92341c-b8c1-08d2-6a2a-1f94be86ff04",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 296,
+                                    "videosources": [
+                                        {
+                                            "duration": 296
+                                        },
+                                        {
+                                            "duration": 296
+                                        },
+                                        {
+                                            "duration": 296
+                                        },
+                                        {
+                                            "duration": 296
+                                        },
+                                        {
+                                            "duration": 296
+                                        },
+                                        {
+                                            "duration": 296
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "IAM Root Users",
+                                "url": "26445709-cd58-b082-98d9-6ce98c5d622a",
+                                "sequence": 1,
+                                "componentIdentifier": "446451fa-f2ff-b54b-af39-c1bb8d617447",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 490,
+                                    "videosources": [
+                                        {
+                                            "duration": 490
+                                        },
+                                        {
+                                            "duration": 490
+                                        },
+                                        {
+                                            "duration": 490
+                                        },
+                                        {
+                                            "duration": 490
+                                        },
+                                        {
+                                            "duration": 490
+                                        },
+                                        {
+                                            "duration": 490
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "IAM Policies 101",
+                                "url": "5ceeeea9-8098-2abb-ede1-57a15ff99a2e",
+                                "sequence": 2,
+                                "componentIdentifier": "de4236fd-27e7-0b0e-c585-a4abe28333ec",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1056,
+                                    "videosources": [
+                                        {
+                                            "duration": 1056
+                                        },
+                                        {
+                                            "duration": 1056
+                                        },
+                                        {
+                                            "duration": 1056
+                                        },
+                                        {
+                                            "duration": 1056
+                                        },
+                                        {
+                                            "duration": 1056
+                                        },
+                                        {
+                                            "duration": 1056
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 Bucket Policies",
+                                "url": "899f3339-021f-f2dc-e99f-c8fb948d72d9",
+                                "sequence": 3,
+                                "componentIdentifier": "d2e2708a-865b-5e2d-0045-27f1fb25934a",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1238,
+                                    "videosources": [
+                                        {
+                                            "duration": 1238
+                                        },
+                                        {
+                                            "duration": 1238
+                                        },
+                                        {
+                                            "duration": 1238
+                                        },
+                                        {
+                                            "duration": 1239
+                                        },
+                                        {
+                                            "duration": 1239
+                                        },
+                                        {
+                                            "duration": 1239
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 ACL's",
+                                "url": "ad77f8c1-9216-65fd-af54-8954fcbef791",
+                                "sequence": 4,
+                                "componentIdentifier": "748bb772-35b5-4b4a-f38d-a8a2c5e3ac3c",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 684,
+                                    "videosources": [
+                                        {
+                                            "duration": 684
+                                        },
+                                        {
+                                            "duration": 684
+                                        },
+                                        {
+                                            "duration": 684
+                                        },
+                                        {
+                                            "duration": 684
+                                        },
+                                        {
+                                            "duration": 684
+                                        },
+                                        {
+                                            "duration": 684
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Conflicting Policies - The Key To Passing Your Exam",
+                                "url": "fb8937c6-69df-6817-67b9-21919e8c7a48",
+                                "sequence": 5,
+                                "componentIdentifier": "5d4699d5-e33f-0427-4628-254366f084b1",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 316,
+                                    "videosources": [
+                                        {
+                                            "duration": 316
+                                        },
+                                        {
+                                            "duration": 316
+                                        },
+                                        {
+                                            "duration": 316
+                                        },
+                                        {
+                                            "duration": 316
+                                        },
+                                        {
+                                            "duration": 316
+                                        },
+                                        {
+                                            "duration": 316
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Forcing Encryption Using S3",
+                                "url": "b5052398-3db8-5a03-26c3-0dc23bcb04f6",
+                                "sequence": 6,
+                                "componentIdentifier": "4d3cd9ac-d917-157d-fc5b-e97efcf2e531",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 317,
+                                    "videosources": [
+                                        {
+                                            "duration": 317
+                                        },
+                                        {
+                                            "duration": 317
+                                        },
+                                        {
+                                            "duration": 317
+                                        },
+                                        {
+                                            "duration": 317
+                                        },
+                                        {
+                                            "duration": 317
+                                        },
+                                        {
+                                            "duration": 317
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS - Bucket Policy samples",
+                                        "url": "https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Req Encryption S3 bucket policy",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/305a146f-6a9d-f82e-8f5a-0b2845d9db9c_4d3cd9ac-d917-157d-fc5b-e97efcf2e531/aws-certified-security-specialty-de59c032-26ed-4b46-9780-1473a3e7b45b.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cross Region Replication And S3",
+                                "url": "955fd1b4-98f0-6dfd-7581-436b5824ae32",
+                                "sequence": 7,
+                                "componentIdentifier": "02c14c58-e7cc-c2c7-03c4-24ef540d1c55",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 750,
+                                    "videosources": [
+                                        {
+                                            "duration": 750
+                                        },
+                                        {
+                                            "duration": 750
+                                        },
+                                        {
+                                            "duration": 750
+                                        },
+                                        {
+                                            "duration": 750
+                                        },
+                                        {
+                                            "duration": 750
+                                        },
+                                        {
+                                            "duration": 750
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Cross Region Replication",
+                                        "url": "https://docs.aws.amazon.com/AmazonS3/latest/dev/crr.html",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "What Does S3 Replicate?",
+                                        "url": "https://docs.aws.amazon.com/AmazonS3/latest/dev/crr-what-is-isnot-replicated.html",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Forcing S3 to Use CloudFront",
+                                "url": "3e8464b2-e257-583f-8660-91724699b94e",
+                                "sequence": 8,
+                                "componentIdentifier": "345d05c8-e642-b52f-8ad2-abb806523626",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 567,
+                                    "videosources": [
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 Pre-signed URLs",
+                                "url": "3211c3bd-0f62-15f4-9641-e10eba50e8d8",
+                                "sequence": 9,
+                                "componentIdentifier": "3488f6a3-9a4a-4a9c-d45d-dea78c712862",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 513,
+                                    "videosources": [
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Security Token Services With Active Directory",
+                                "url": "9f97e5b4-1ca4-bedc-3ca6-319875fa5f93",
+                                "sequence": 10,
+                                "componentIdentifier": "dcf80984-f1f4-b93a-e4c6-2b006561579a",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": "2018-10-01T16:31:32.159Z",
+                                    "updatedDate": "2018-10-01T16:31:32.159Z",
+                                    "notifyUpdatedDate": "2018-10-01T16:31:32.159Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 537,
+                                    "videosources": [
+                                        {
+                                            "duration": 537
+                                        },
+                                        {
+                                            "duration": 537
+                                        },
+                                        {
+                                            "duration": 537
+                                        },
+                                        {
+                                            "duration": 537
+                                        },
+                                        {
+                                            "duration": 537
+                                        },
+                                        {
+                                            "duration": 537
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Summary",
+                                "url": "43515829-bdad-5025-81d9-6d620cef67b8",
+                                "sequence": 11,
+                                "componentIdentifier": "806ddd88-3f80-80a1-ffc8-baaf1f19b45a",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-01T16:31:32.159Z",
+                                    "notifyUpdatedDate": "2018-10-01T16:31:32.159Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 574,
+                                    "videosources": [
+                                        {
+                                            "duration": 574
+                                        },
+                                        {
+                                            "duration": 574
+                                        },
+                                        {
+                                            "duration": 574
+                                        },
+                                        {
+                                            "duration": 574
+                                        },
+                                        {
+                                            "duration": 574
+                                        },
+                                        {
+                                            "duration": 574
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Logging And Monitoring",
+                        "url": "07d9755f-97ec-6736-e2c0-042237996b3e",
+                        "sequence": 3,
+                        "sectionIdentifier": "07d9755f-97ec-6736-e2c0-042237996b3e",
+                        "components": [
+                            {
+                                "title": "CloudTrail - Turning It On",
+                                "url": "c9bc298a-bc05-cbdf-e96b-3af806279b07",
+                                "sequence": 0,
+                                "componentIdentifier": "c9bc298a-bc05-cbdf-e96b-3af806279b07",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 868,
+                                    "videosources": [
+                                        {
+                                            "duration": 868
+                                        },
+                                        {
+                                            "duration": 868
+                                        },
+                                        {
+                                            "duration": 868
+                                        },
+                                        {
+                                            "duration": 868
+                                        },
+                                        {
+                                            "duration": 868
+                                        },
+                                        {
+                                            "duration": 868
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudTrail - Protecting Your Logs",
+                                "url": "0197f07c-76e2-6f47-cf0a-40565bc99576",
+                                "sequence": 1,
+                                "componentIdentifier": "0197f07c-76e2-6f47-cf0a-40565bc99576",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 664,
+                                    "videosources": [
+                                        {
+                                            "duration": 664
+                                        },
+                                        {
+                                            "duration": 664
+                                        },
+                                        {
+                                            "duration": 664
+                                        },
+                                        {
+                                            "duration": 664
+                                        },
+                                        {
+                                            "duration": 664
+                                        },
+                                        {
+                                            "duration": 664
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudWatch 101",
+                                "url": "872404ca-a1c9-b40c-9cfb-0ac0f24af753",
+                                "sequence": 2,
+                                "componentIdentifier": "872404ca-a1c9-b40c-9cfb-0ac0f24af753",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1015,
+                                    "videosources": [
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        },
+                                        {
+                                            "duration": 1015
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Config 101",
+                                "url": "56f70c85-7aae-1e4f-be94-a13519084d3d",
+                                "sequence": 3,
+                                "componentIdentifier": "56f70c85-7aae-1e4f-be94-a13519084d3d",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 484,
+                                    "videosources": [
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Config Lab",
+                                "url": "288a69b3-5b84-c5e4-13cf-fb0c2ff96933",
+                                "sequence": 4,
+                                "componentIdentifier": "288a69b3-5b84-c5e4-13cf-fb0c2ff96933",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 513,
+                                    "videosources": [
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        },
+                                        {
+                                            "duration": 513
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Config Summary",
+                                "url": "75d512c8-ab9d-b6f2-9299-1e4e4eb8d0e5",
+                                "sequence": 5,
+                                "componentIdentifier": "75d512c8-ab9d-b6f2-9299-1e4e4eb8d0e5",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 233,
+                                    "videosources": [
+                                        {
+                                            "duration": 233
+                                        },
+                                        {
+                                            "duration": 233
+                                        },
+                                        {
+                                            "duration": 233
+                                        },
+                                        {
+                                            "duration": 233
+                                        },
+                                        {
+                                            "duration": 233
+                                        },
+                                        {
+                                            "duration": 233
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Set Up An Alert If The Root User Logs In",
+                                "url": "a902fa75-f6e9-aa1d-6015-61dfb267c142",
+                                "sequence": 6,
+                                "componentIdentifier": "3a1f977a-8d32-5391-c5cd-88c8eccc4a83",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 364,
+                                    "videosources": [
+                                        {
+                                            "duration": 364
+                                        },
+                                        {
+                                            "duration": 364
+                                        },
+                                        {
+                                            "duration": 364
+                                        },
+                                        {
+                                            "duration": 364
+                                        },
+                                        {
+                                            "duration": 364
+                                        },
+                                        {
+                                            "duration": 364
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Root User Filter",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/07d9755f-97ec-6736-e2c0-042237996b3e_3a1f977a-8d32-5391-c5cd-88c8eccc4a83/aws-certified-security-specialty-17c1d2c1-07d9-4dc7-ba7e-a83c3a373b2d.txt"
+                                    },
+                                    {
+                                        "title": "Blog Article",
+                                        "url": "https://aws.amazon.com/blogs/security/how-to-receive-notifications-when-your-aws-accounts-root-access-keys-are-used/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM",
+                                "url": "739505ca-eee0-d184-8be6-d09c3bc1b10c",
+                                "sequence": 7,
+                                "componentIdentifier": "739505ca-eee0-d184-8be6-d09c3bc1b10c",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 494,
+                                    "videosources": [
+                                        {
+                                            "duration": 494
+                                        },
+                                        {
+                                            "duration": 494
+                                        },
+                                        {
+                                            "duration": 494
+                                        },
+                                        {
+                                            "duration": 494
+                                        },
+                                        {
+                                            "duration": 494
+                                        },
+                                        {
+                                            "duration": 494
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Course updates for the beta exam 2018",
+                                        "url": "https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L4NjG6uivkVrtlng7PK/is-someone-from-acloudguru-team-monitoring-this-security-course-forum-?answer=-L4Plwix5LGD9z_avkrR",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Inspector & Trusted Advisor",
+                                "url": "56ce1c67-c586-ed54-e973-016c632d8cd7",
+                                "sequence": 8,
+                                "componentIdentifier": "56ce1c67-c586-ed54-e973-016c632d8cd7",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1162,
+                                    "videosources": [
+                                        {
+                                            "duration": 1162
+                                        },
+                                        {
+                                            "duration": 1162
+                                        },
+                                        {
+                                            "duration": 1162
+                                        },
+                                        {
+                                            "duration": 1162
+                                        },
+                                        {
+                                            "duration": 1162
+                                        },
+                                        {
+                                            "duration": 1162
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Commands for inspector",
+                                        "url": "http://docs.aws.amazon.com/inspector/latest/userguide/inspector_installing-uninstalling-agents.html",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Logging With AWS - White Paper",
+                                "url": "c9e87590-033f-1feb-6ef6-fad2ee274867",
+                                "sequence": 9,
+                                "componentIdentifier": "6ebce81b-f731-f2c6-f0d4-d446390a1e96",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 249,
+                                    "videosources": [
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Section 4 Summary",
+                                "url": "c3950db2-f220-566b-6bd8-6f9f1a0b9b9c",
+                                "sequence": 10,
+                                "componentIdentifier": "c3950db2-f220-566b-6bd8-6f9f1a0b9b9c",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 935,
+                                    "videosources": [
+                                        {
+                                            "duration": 935
+                                        },
+                                        {
+                                            "duration": 935
+                                        },
+                                        {
+                                            "duration": 935
+                                        },
+                                        {
+                                            "duration": 935
+                                        },
+                                        {
+                                            "duration": 935
+                                        },
+                                        {
+                                            "duration": 935
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Infrastructure Security",
+                        "url": "e0bc9c6d-c68b-f082-0a44-5591e5b041cc",
+                        "sequence": 4,
+                        "sectionIdentifier": "e0bc9c6d-c68b-f082-0a44-5591e5b041cc",
+                        "components": [
+                            {
+                                "title": "KMS Part 1",
+                                "url": "a0088b27-5de5-1626-2ef4-9de41611a73c",
+                                "sequence": 0,
+                                "componentIdentifier": "e778bac7-31b5-5498-34c9-fd186d340375",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1250,
+                                    "videosources": [
+                                        {
+                                            "duration": 1250
+                                        },
+                                        {
+                                            "duration": 1250
+                                        },
+                                        {
+                                            "duration": 1250
+                                        },
+                                        {
+                                            "duration": 1250
+                                        },
+                                        {
+                                            "duration": 1250
+                                        },
+                                        {
+                                            "duration": 1250
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "KMS Part 2",
+                                "url": "ca4866cb-7b70-33fb-d0c2-108287d5189d",
+                                "sequence": 1,
+                                "componentIdentifier": "6d9f4a6c-7698-6fa4-1267-ab0d7229b675",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 484,
+                                    "videosources": [
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "KMS Part 3",
+                                "url": "bbbb9d8a-34c4-ea52-6ce2-2a7206c58da2",
+                                "sequence": 2,
+                                "componentIdentifier": "a3bdce1e-9582-f5dc-c1f2-867dd8cee9ff",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 967,
+                                    "videosources": [
+                                        {
+                                            "duration": 967
+                                        },
+                                        {
+                                            "duration": 967
+                                        },
+                                        {
+                                            "duration": 967
+                                        },
+                                        {
+                                            "duration": 967
+                                        },
+                                        {
+                                            "duration": 967
+                                        },
+                                        {
+                                            "duration": 967
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "KMS Part 4",
+                                "url": "dadad768-f69b-1fc0-0eae-1a9970342fee",
+                                "sequence": 3,
+                                "componentIdentifier": "45a7c1cd-1aee-3d46-a35d-2b93f62a9e41",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 584,
+                                    "videosources": [
+                                        {
+                                            "duration": 584
+                                        },
+                                        {
+                                            "duration": 584
+                                        },
+                                        {
+                                            "duration": 584
+                                        },
+                                        {
+                                            "duration": 584
+                                        },
+                                        {
+                                            "duration": 584
+                                        },
+                                        {
+                                            "duration": 584
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Using Your Own Key Pairs - Mac Users Only",
+                                "url": "562a07fe-c903-75cd-4d2d-d3cfa6eb5017",
+                                "sequence": 4,
+                                "componentIdentifier": "562a07fe-c903-75cd-4d2d-d3cfa6eb5017",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 508,
+                                    "videosources": [
+                                        {
+                                            "duration": 508
+                                        },
+                                        {
+                                            "duration": 508
+                                        },
+                                        {
+                                            "duration": 508
+                                        },
+                                        {
+                                            "duration": 508
+                                        },
+                                        {
+                                            "duration": 508
+                                        },
+                                        {
+                                            "duration": 508
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "OpenSSL scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/e0bc9c6d-c68b-f082-0a44-5591e5b041cc_562a07fe-c903-75cd-4d2d-d3cfa6eb5017/aws-certified-security-specialty-b34e6f4c-bb53-493a-8303-409b11c5df76.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Using Your Own Key Pairs - Windows Users Only",
+                                "url": "10c4466e-d8bc-7479-a46b-1afc507a8a51",
+                                "sequence": 5,
+                                "componentIdentifier": "10c4466e-d8bc-7479-a46b-1afc507a8a51",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 539,
+                                    "videosources": [
+                                        {
+                                            "duration": 539
+                                        },
+                                        {
+                                            "duration": 539
+                                        },
+                                        {
+                                            "duration": 539
+                                        },
+                                        {
+                                            "duration": 539
+                                        },
+                                        {
+                                            "duration": 539
+                                        },
+                                        {
+                                            "duration": 539
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Using KMS With EBS",
+                                "url": "5aea5d0e-9a7a-5253-d696-4bad29dd91d7",
+                                "sequence": 6,
+                                "componentIdentifier": "5aea5d0e-9a7a-5253-d696-4bad29dd91d7",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 827,
+                                    "videosources": [
+                                        {
+                                            "duration": 827
+                                        },
+                                        {
+                                            "duration": 827
+                                        },
+                                        {
+                                            "duration": 827
+                                        },
+                                        {
+                                            "duration": 827
+                                        },
+                                        {
+                                            "duration": 827
+                                        },
+                                        {
+                                            "duration": 827
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "EC2 & Key Pairs",
+                                "url": "3be46bd5-5138-6ad9-bbd7-36d8acafb356",
+                                "sequence": 7,
+                                "componentIdentifier": "3be46bd5-5138-6ad9-bbd7-36d8acafb356",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 686,
+                                    "videosources": [
+                                        {
+                                            "duration": 686
+                                        },
+                                        {
+                                            "duration": 686
+                                        },
+                                        {
+                                            "duration": 686
+                                        },
+                                        {
+                                            "duration": 686
+                                        },
+                                        {
+                                            "duration": 686
+                                        },
+                                        {
+                                            "duration": 686
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "EC2 & Key Pairs - Part 2",
+                                "url": "12775724-bc56-389f-4ae5-e401636b6f92",
+                                "sequence": 8,
+                                "componentIdentifier": "12775724-bc56-389f-4ae5-e401636b6f92",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 621,
+                                    "videosources": [
+                                        {
+                                            "duration": 621
+                                        },
+                                        {
+                                            "duration": 621
+                                        },
+                                        {
+                                            "duration": 621
+                                        },
+                                        {
+                                            "duration": 621
+                                        },
+                                        {
+                                            "duration": 621
+                                        },
+                                        {
+                                            "duration": 621
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Market Place Security Products",
+                                "url": "0020d6a7-1592-6f40-ab29-01c127abdbb9",
+                                "sequence": 9,
+                                "componentIdentifier": "0020d6a7-1592-6f40-ab29-01c127abdbb9",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 484,
+                                    "videosources": [
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        },
+                                        {
+                                            "duration": 484
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS WAF & AWS Shield",
+                                "url": "c9465477-104f-458b-ef8e-baa91827bd6a",
+                                "sequence": 10,
+                                "componentIdentifier": "c9465477-104f-458b-ef8e-baa91827bd6a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1111,
+                                    "videosources": [
+                                        {
+                                            "duration": 1111
+                                        },
+                                        {
+                                            "duration": 1111
+                                        },
+                                        {
+                                            "duration": 1111
+                                        },
+                                        {
+                                            "duration": 1111
+                                        },
+                                        {
+                                            "duration": 1111
+                                        },
+                                        {
+                                            "duration": 1111
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "WAF Template",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/e0bc9c6d-c68b-f082-0a44-5591e5b041cc_c9465477-104f-458b-ef8e-baa91827bd6a/aws-certified-security-specialty-a1a35d0f-10c5-4ad6-993e-3f2a61602069.txt"
+                                    },
+                                    {
+                                        "title": "AWS WAF samples",
+                                        "url": "https://aws.amazon.com/waf/preconfiguredrules/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Dedicated Instances vs Dedicated Hosts",
+                                "url": "4caecdfe-e2fa-9dd8-9a8d-bd97b7e20541",
+                                "sequence": 11,
+                                "componentIdentifier": "4caecdfe-e2fa-9dd8-9a8d-bd97b7e20541",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 352,
+                                    "videosources": [
+                                        {
+                                            "duration": 352
+                                        },
+                                        {
+                                            "duration": 352
+                                        },
+                                        {
+                                            "duration": 352
+                                        },
+                                        {
+                                            "duration": 352
+                                        },
+                                        {
+                                            "duration": 352
+                                        },
+                                        {
+                                            "duration": 352
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Hypervisors",
+                                "url": "a692f89c-1a74-a87a-4865-7b4a25c52f59",
+                                "sequence": 12,
+                                "componentIdentifier": "a692f89c-1a74-a87a-4865-7b4a25c52f59",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 440,
+                                    "videosources": [
+                                        {
+                                            "duration": 440
+                                        },
+                                        {
+                                            "duration": 440
+                                        },
+                                        {
+                                            "duration": 440
+                                        },
+                                        {
+                                            "duration": 440
+                                        },
+                                        {
+                                            "duration": 440
+                                        },
+                                        {
+                                            "duration": 440
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Section 5 - Summary",
+                                "url": "1872a1d8-39d2-2e96-35a2-8cc44e8d945f",
+                                "sequence": 13,
+                                "componentIdentifier": "77e7a08c-6155-c267-d9f1-f1c5528fedbe",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 871,
+                                    "videosources": [
+                                        {
+                                            "duration": 871
+                                        },
+                                        {
+                                            "duration": 871
+                                        },
+                                        {
+                                            "duration": 871
+                                        },
+                                        {
+                                            "duration": 871
+                                        },
+                                        {
+                                            "duration": 871
+                                        },
+                                        {
+                                            "duration": 871
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Data Protection With VPCs",
+                        "url": "94d48bf7-9627-c2d6-3a38-b1389cbf05c5",
+                        "sequence": 5,
+                        "sectionIdentifier": "94d48bf7-9627-c2d6-3a38-b1389cbf05c5",
+                        "components": [
+                            {
+                                "title": "VPC Introduction",
+                                "url": "16a459de-b84e-b504-8439-6ca36c66740b",
+                                "sequence": 0,
+                                "componentIdentifier": "16a459de-b84e-b504-8439-6ca36c66740b",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 561,
+                                    "videosources": [
+                                        {
+                                            "duration": 561
+                                        },
+                                        {
+                                            "duration": 561
+                                        },
+                                        {
+                                            "duration": 561
+                                        },
+                                        {
+                                            "duration": 561
+                                        },
+                                        {
+                                            "duration": 561
+                                        },
+                                        {
+                                            "duration": 561
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Transit VPCs, a special case",
+                                        "url": "https://aws.amazon.com/answers/networking/aws-global-transit-network/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Setting Up Our VPC Part 1",
+                                "url": "73e3185c-10d3-8613-2d83-5c376d1bc73e",
+                                "sequence": 1,
+                                "componentIdentifier": "73e3185c-10d3-8613-2d83-5c376d1bc73e",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1114,
+                                    "videosources": [
+                                        {
+                                            "duration": 1114
+                                        },
+                                        {
+                                            "duration": 1114
+                                        },
+                                        {
+                                            "duration": 1114
+                                        },
+                                        {
+                                            "duration": 1114
+                                        },
+                                        {
+                                            "duration": 1114
+                                        },
+                                        {
+                                            "duration": 1114
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Setting Up Our VPC Part 2",
+                                "url": "e287bc32-2b85-ef41-6c9a-15931a8c5169",
+                                "sequence": 2,
+                                "componentIdentifier": "e287bc32-2b85-ef41-6c9a-15931a8c5169",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 327,
+                                    "videosources": [
+                                        {
+                                            "duration": 327
+                                        },
+                                        {
+                                            "duration": 327
+                                        },
+                                        {
+                                            "duration": 327
+                                        },
+                                        {
+                                            "duration": 327
+                                        },
+                                        {
+                                            "duration": 327
+                                        },
+                                        {
+                                            "duration": 327
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Nat Instances & Nat Gateways",
+                                "url": "7e204560-3784-9cff-26f0-987f475e5a27",
+                                "sequence": 3,
+                                "componentIdentifier": "7e204560-3784-9cff-26f0-987f475e5a27",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 824,
+                                    "videosources": [
+                                        {
+                                            "duration": 824
+                                        },
+                                        {
+                                            "duration": 824
+                                        },
+                                        {
+                                            "duration": 824
+                                        },
+                                        {
+                                            "duration": 824
+                                        },
+                                        {
+                                            "duration": 824
+                                        },
+                                        {
+                                            "duration": 824
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "NACLs vs Security Groups",
+                                "url": "5c7b18a1-7885-5930-6a05-540e42de8590",
+                                "sequence": 4,
+                                "componentIdentifier": "5c7b18a1-7885-5930-6a05-540e42de8590",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-01T20:02:40.380Z",
+                                    "notifyUpdatedDate": "2018-10-01T20:02:40.380Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 769,
+                                    "videosources": [
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Application Load Balancers & custom VPC's",
+                                "url": "35858660-cba7-e66d-0407-eb8232bed688",
+                                "sequence": 5,
+                                "componentIdentifier": "35858660-cba7-e66d-0407-eb8232bed688",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-01T16:31:32.159Z",
+                                    "notifyUpdatedDate": "2018-10-01T16:31:32.159Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 139,
+                                    "videosources": [
+                                        {
+                                            "duration": 139
+                                        },
+                                        {
+                                            "duration": 139
+                                        },
+                                        {
+                                            "duration": 139
+                                        },
+                                        {
+                                            "duration": 139
+                                        },
+                                        {
+                                            "duration": 139
+                                        },
+                                        {
+                                            "duration": 139
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC Flow Logs",
+                                "url": "65b0105f-8a98-2dfc-a249-fa7c36dd1571",
+                                "sequence": 6,
+                                "componentIdentifier": "65b0105f-8a98-2dfc-a249-fa7c36dd1571",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 268,
+                                    "videosources": [
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "NAT's vs Bastions",
+                                "url": "0d070e8a-d7a4-fcef-38df-9c4955dba4ea",
+                                "sequence": 7,
+                                "componentIdentifier": "0d070e8a-d7a4-fcef-38df-9c4955dba4ea",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 238,
+                                    "videosources": [
+                                        {
+                                            "duration": 238
+                                        },
+                                        {
+                                            "duration": 238
+                                        },
+                                        {
+                                            "duration": 238
+                                        },
+                                        {
+                                            "duration": 238
+                                        },
+                                        {
+                                            "duration": 238
+                                        },
+                                        {
+                                            "duration": 238
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC End Points",
+                                "url": "1a48a29a-dcba-28e8-bcc3-2e89da689e5e",
+                                "sequence": 8,
+                                "componentIdentifier": "1a48a29a-dcba-28e8-bcc3-2e89da689e5e",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 410,
+                                    "videosources": [
+                                        {
+                                            "duration": 410
+                                        },
+                                        {
+                                            "duration": 410
+                                        },
+                                        {
+                                            "duration": 410
+                                        },
+                                        {
+                                            "duration": 410
+                                        },
+                                        {
+                                            "duration": 410
+                                        },
+                                        {
+                                            "duration": 410
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS PrivateLink",
+                                        "url": "http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/Yz_lj-qC52w/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "VPC - Clean Up",
+                                "url": "a9cdc1da-22fe-cfd4-6bf0-5fde8a6d2f4a",
+                                "sequence": 9,
+                                "componentIdentifier": "a66b3be1-218b-48d9-cb52-05388516feac",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 225,
+                                    "videosources": [
+                                        {
+                                            "duration": 225
+                                        },
+                                        {
+                                            "duration": 225
+                                        },
+                                        {
+                                            "duration": 225
+                                        },
+                                        {
+                                            "duration": 225
+                                        },
+                                        {
+                                            "duration": 225
+                                        },
+                                        {
+                                            "duration": 225
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC - Summary",
+                                "url": "1f55c991-416c-619c-2401-4f3ded12427c",
+                                "sequence": 10,
+                                "componentIdentifier": "bd04d951-3eaf-a305-2916-5b3e8ca8e898",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 370,
+                                    "videosources": [
+                                        {
+                                            "duration": 370
+                                        },
+                                        {
+                                            "duration": 370
+                                        },
+                                        {
+                                            "duration": 370
+                                        },
+                                        {
+                                            "duration": 370
+                                        },
+                                        {
+                                            "duration": 370
+                                        },
+                                        {
+                                            "duration": 370
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Cloud HSM - Deep Dive (Optional)",
+                        "url": "dbef488a-2e19-dd60-d507-2ca5bd294ce2",
+                        "sequence": 6,
+                        "sectionIdentifier": "d4d1f6d7-3ab9-3ba9-1385-e3067b5a814d",
+                        "components": [
+                            {
+                                "title": "Cloud HSM",
+                                "url": "2e5ed482-5272-86da-da83-d793be40681d",
+                                "sequence": 0,
+                                "componentIdentifier": "2e5ed482-5272-86da-da83-d793be40681d",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 648,
+                                    "videosources": [
+                                        {
+                                            "duration": 648
+                                        },
+                                        {
+                                            "duration": 648
+                                        },
+                                        {
+                                            "duration": 648
+                                        },
+                                        {
+                                            "duration": 648
+                                        },
+                                        {
+                                            "duration": 648
+                                        },
+                                        {
+                                            "duration": 648
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS CloudHSM documentation",
+                                        "url": "https://aws.amazon.com/cloudhsm/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Verifying Our Certificates",
+                                "url": "afb47c01-0c7c-f1a4-8bb5-b7fe197981a6",
+                                "sequence": 1,
+                                "componentIdentifier": "afb47c01-0c7c-f1a4-8bb5-b7fe197981a6",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 520,
+                                    "videosources": [
+                                        {
+                                            "duration": 520
+                                        },
+                                        {
+                                            "duration": 520
+                                        },
+                                        {
+                                            "duration": 520
+                                        },
+                                        {
+                                            "duration": 520
+                                        },
+                                        {
+                                            "duration": 520
+                                        },
+                                        {
+                                            "duration": 520
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/94d48bf7-9627-c2d6-3a38-b1389cbf05c5_afb47c01-0c7c-f1a4-8bb5-b7fe197981a6/aws-certified-security-specialty-e76abdac-24d7-4530-850a-d0a946f54f48.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Initializing Our Cluster",
+                                "url": "d2cd5fb2-d31b-8955-d6ac-9c5a44e610c9",
+                                "sequence": 2,
+                                "componentIdentifier": "35d7f32d-c359-ad14-0673-ddc888cde66d",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 591,
+                                    "videosources": [
+                                        {
+                                            "duration": 591
+                                        },
+                                        {
+                                            "duration": 591
+                                        },
+                                        {
+                                            "duration": 591
+                                        },
+                                        {
+                                            "duration": 591
+                                        },
+                                        {
+                                            "duration": 591
+                                        },
+                                        {
+                                            "duration": 591
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/94d48bf7-9627-c2d6-3a38-b1389cbf05c5_35d7f32d-c359-ad14-0673-ddc888cde66d/aws-certified-security-specialty-097e99b2-da29-4a9e-bbcd-9e17ae9b33e9.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Installing Our Client",
+                                "url": "85052328-3a58-2dda-e1c4-a80022a63179",
+                                "sequence": 3,
+                                "componentIdentifier": "e4fa9813-5be2-0897-7e65-9e754e0a7c6d",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 349,
+                                    "videosources": [
+                                        {
+                                            "duration": 349
+                                        },
+                                        {
+                                            "duration": 349
+                                        },
+                                        {
+                                            "duration": 349
+                                        },
+                                        {
+                                            "duration": 349
+                                        },
+                                        {
+                                            "duration": 349
+                                        },
+                                        {
+                                            "duration": 349
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/94d48bf7-9627-c2d6-3a38-b1389cbf05c5_e4fa9813-5be2-0897-7e65-9e754e0a7c6d/aws-certified-security-specialty-f9decee6-6af5-4039-b027-ec1eb285e452.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Activating Our Cluster",
+                                "url": "50f94f6b-fde7-eeba-e996-d2bbb10b1704",
+                                "sequence": 4,
+                                "componentIdentifier": "8dae0a30-f11e-640c-39c4-41739099c55d",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 477,
+                                    "videosources": [
+                                        {
+                                            "duration": 477
+                                        },
+                                        {
+                                            "duration": 477
+                                        },
+                                        {
+                                            "duration": 477
+                                        },
+                                        {
+                                            "duration": 477
+                                        },
+                                        {
+                                            "duration": 477
+                                        },
+                                        {
+                                            "duration": 477
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS - CloudHSM User GUide",
+                                        "url": "http://docs.aws.amazon.com/cloudhsm/latest/userguide/introduction.html",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Lab scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/94d48bf7-9627-c2d6-3a38-b1389cbf05c5_8dae0a30-f11e-640c-39c4-41739099c55d/aws-certified-security-specialty-859ca5d1-b28e-4012-85d2-2288c6a720e4.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Generate Export Keys",
+                                "url": "a46308cf-4d90-d1f9-ae60-1815579b629b",
+                                "sequence": 5,
+                                "componentIdentifier": "a0b5180b-1a20-3c8b-e1e2-2749d853b2a1",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 720,
+                                    "videosources": [
+                                        {
+                                            "duration": 720
+                                        },
+                                        {
+                                            "duration": 720
+                                        },
+                                        {
+                                            "duration": 720
+                                        },
+                                        {
+                                            "duration": 720
+                                        },
+                                        {
+                                            "duration": 720
+                                        },
+                                        {
+                                            "duration": 720
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab scripts",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-security-specialty/resource/94d48bf7-9627-c2d6-3a38-b1389cbf05c5_a0b5180b-1a20-3c8b-e1e2-2749d853b2a1/aws-certified-security-specialty-a41fd003-db5b-4d9c-bd50-439d8de50b98.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Cloud HSM - Wrap Up",
+                                "url": "536a7e3b-2572-d37a-0b00-b671cd1d4468",
+                                "sequence": 6,
+                                "componentIdentifier": "323503da-b9bf-85de-d9a6-ff0d1c58964b",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 369,
+                                    "videosources": [
+                                        {
+                                            "duration": 369
+                                        },
+                                        {
+                                            "duration": 369
+                                        },
+                                        {
+                                            "duration": 369
+                                        },
+                                        {
+                                            "duration": 369
+                                        },
+                                        {
+                                            "duration": 369
+                                        },
+                                        {
+                                            "duration": 369
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Incidence Response & AWS In The Real World",
+                        "url": "37978d62-e111-6f5e-e8d2-220f7977de22",
+                        "sequence": 7,
+                        "sectionIdentifier": "37978d62-e111-6f5e-e8d2-220f7977de22",
+                        "components": [
+                            {
+                                "title": "DDOS Overview",
+                                "url": "dfba3769-9cc0-f3ed-729b-ef356eb2eb73",
+                                "sequence": 0,
+                                "componentIdentifier": "dfba3769-9cc0-f3ed-729b-ef356eb2eb73",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 907,
+                                    "videosources": [
+                                        {
+                                            "duration": 907
+                                        },
+                                        {
+                                            "duration": 907
+                                        },
+                                        {
+                                            "duration": 907
+                                        },
+                                        {
+                                            "duration": 907
+                                        },
+                                        {
+                                            "duration": 907
+                                        },
+                                        {
+                                            "duration": 907
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "WAF Integration",
+                                "url": "d29a1c5b-f42a-fc18-0781-97a97607163f",
+                                "sequence": 1,
+                                "componentIdentifier": "e12a46a1-5fa4-227f-6ce3-a97e123812ed",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 84,
+                                    "videosources": [
+                                        {
+                                            "duration": 84
+                                        },
+                                        {
+                                            "duration": 84
+                                        },
+                                        {
+                                            "duration": 84
+                                        },
+                                        {
+                                            "duration": 84
+                                        },
+                                        {
+                                            "duration": 84
+                                        },
+                                        {
+                                            "duration": 84
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "EC2 Has Been Hacked! What should you do?",
+                                "url": "39e820ab-9ccb-382e-1e8b-095dfba6231e",
+                                "sequence": 2,
+                                "componentIdentifier": "db6a5a6a-9805-9f1a-2dee-bbdd2b5f4062",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 302,
+                                    "videosources": [
+                                        {
+                                            "duration": 302
+                                        },
+                                        {
+                                            "duration": 302
+                                        },
+                                        {
+                                            "duration": 302
+                                        },
+                                        {
+                                            "duration": 302
+                                        },
+                                        {
+                                            "duration": 302
+                                        },
+                                        {
+                                            "duration": 302
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "I've Leaked My Keys On Github Accidentally",
+                                "url": "2547155c-8c24-b7d9-b90e-743053e12cd3",
+                                "sequence": 3,
+                                "componentIdentifier": "ba557d63-3652-253a-5d82-fe0d5949db5f",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 274,
+                                    "videosources": [
+                                        {
+                                            "duration": 274
+                                        },
+                                        {
+                                            "duration": 274
+                                        },
+                                        {
+                                            "duration": 274
+                                        },
+                                        {
+                                            "duration": 274
+                                        },
+                                        {
+                                            "duration": 274
+                                        },
+                                        {
+                                            "duration": 274
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Reading CloudTrail Logs",
+                                "url": "350a374d-96f6-b88c-ac03-ffd432c83d26",
+                                "sequence": 4,
+                                "componentIdentifier": "f90c83a9-5ed7-9790-09b7-4c83c124a1cf",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 277,
+                                    "videosources": [
+                                        {
+                                            "duration": 277
+                                        },
+                                        {
+                                            "duration": 277
+                                        },
+                                        {
+                                            "duration": 277
+                                        },
+                                        {
+                                            "duration": 277
+                                        },
+                                        {
+                                            "duration": 277
+                                        },
+                                        {
+                                            "duration": 277
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Pen Testing - AWS Market Place",
+                                "url": "20158981-9bfc-e80a-6103-dab845442393",
+                                "sequence": 5,
+                                "componentIdentifier": "9bbb8fce-5456-c404-d7c0-d99766b39a5f",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 237,
+                                    "videosources": [
+                                        {
+                                            "duration": 237
+                                        },
+                                        {
+                                            "duration": 237
+                                        },
+                                        {
+                                            "duration": 237
+                                        },
+                                        {
+                                            "duration": 237
+                                        },
+                                        {
+                                            "duration": 237
+                                        },
+                                        {
+                                            "duration": 237
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Certificate Manager",
+                                "url": "e16c02c3-23d0-aeed-b42c-ae6819426911",
+                                "sequence": 6,
+                                "componentIdentifier": "9ca9278a-9613-47aa-b5e2-1fd0f552c8d9",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 608,
+                                    "videosources": [
+                                        {
+                                            "duration": 608
+                                        },
+                                        {
+                                            "duration": 608
+                                        },
+                                        {
+                                            "duration": 608
+                                        },
+                                        {
+                                            "duration": 608
+                                        },
+                                        {
+                                            "duration": 608
+                                        },
+                                        {
+                                            "duration": 608
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Perfect Forward Secrecy and ALBs",
+                                "url": "b87be313-aee5-58c3-0d8d-b2c5d3f72c66",
+                                "sequence": 7,
+                                "componentIdentifier": "7f4c5955-4e74-9635-f964-15422465adb5",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 328,
+                                    "videosources": [
+                                        {
+                                            "duration": 328
+                                        },
+                                        {
+                                            "duration": 328
+                                        },
+                                        {
+                                            "duration": 328
+                                        },
+                                        {
+                                            "duration": 328
+                                        },
+                                        {
+                                            "duration": 328
+                                        },
+                                        {
+                                            "duration": 328
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "API Gateway - Throttling & Caching",
+                                "url": "7acff83f-8d7b-5440-7462-39f2da4c0e5c",
+                                "sequence": 8,
+                                "componentIdentifier": "1d9a2e70-2bf3-2a22-7ca1-d4793fd09f25",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 321,
+                                    "videosources": [
+                                        {
+                                            "duration": 321
+                                        },
+                                        {
+                                            "duration": 321
+                                        },
+                                        {
+                                            "duration": 321
+                                        },
+                                        {
+                                            "duration": 321
+                                        },
+                                        {
+                                            "duration": 321
+                                        },
+                                        {
+                                            "duration": 321
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Systems Manager Parameter Store",
+                                "url": "c27e963c-6cbc-d2c5-3e01-7723783e98bc",
+                                "sequence": 9,
+                                "componentIdentifier": "9474a880-1f94-17d8-6fdf-4f1e207b5b89",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 360,
+                                    "videosources": [
+                                        {
+                                            "duration": 360
+                                        },
+                                        {
+                                            "duration": 360
+                                        },
+                                        {
+                                            "duration": 360
+                                        },
+                                        {
+                                            "duration": 360
+                                        },
+                                        {
+                                            "duration": 360
+                                        },
+                                        {
+                                            "duration": 360
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Systems Manager Run Command",
+                                "url": "8d0adb8d-d653-e14a-9152-83ccdedaf38d",
+                                "sequence": 10,
+                                "componentIdentifier": "2b823cd5-fc64-2218-43f6-1aed69f576c8",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 552,
+                                    "videosources": [
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Compliance in AWS",
+                                "url": "7b4ac95c-bf02-9c10-a068-06b73d44baae",
+                                "sequence": 11,
+                                "componentIdentifier": "c9e478b4-0631-7c04-d257-3d4f16de08cf",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 552,
+                                    "videosources": [
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        },
+                                        {
+                                            "duration": 552
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Section 8 Summary",
+                                "url": "aef52baf-1933-a3aa-b54c-0dae8593c263",
+                                "sequence": 12,
+                                "componentIdentifier": "dc4e9253-5bf7-5a14-dfd0-46fb67e622ac",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1007,
+                                    "videosources": [
+                                        {
+                                            "duration": 1007
+                                        },
+                                        {
+                                            "duration": 1007
+                                        },
+                                        {
+                                            "duration": 1007
+                                        },
+                                        {
+                                            "duration": 1007
+                                        },
+                                        {
+                                            "duration": 1007
+                                        },
+                                        {
+                                            "duration": 1007
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Conclusion",
+                        "url": "d2dd2062-9a71-5d55-b97b-6310e3f66f27",
+                        "sequence": 8,
+                        "sectionIdentifier": "d2dd2062-9a71-5d55-b97b-6310e3f66f27",
+                        "components": [
+                            {
+                                "title": "How To Book Your Exam",
+                                "url": "66f0a626-bffc-2b00-820d-315f20e1087f",
+                                "sequence": 0,
+                                "componentIdentifier": "1920408c-57ae-5dc7-f8f1-0f6d1c71bcd8",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 95,
+                                    "videosources": [
+                                        {
+                                            "duration": 95
+                                        },
+                                        {
+                                            "duration": 95
+                                        },
+                                        {
+                                            "duration": 95
+                                        },
+                                        {
+                                            "duration": 95
+                                        },
+                                        {
+                                            "duration": 95
+                                        },
+                                        {
+                                            "duration": 95
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Good Luck!",
+                                "url": "c384592f-6b9a-856c-86e9-95e901e659db",
+                                "sequence": 1,
+                                "componentIdentifier": "c384592f-6b9a-856c-86e9-95e901e659db",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 65,
+                                    "videosources": [
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Looking for something different? Come work with us.",
+                                        "url": "https://acloud.guru/careers",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

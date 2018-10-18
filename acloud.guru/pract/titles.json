@@ -1,0 +1,1751 @@
+{
+    "data": {
+        "getCourses": [
+            {
+                "title": "AWS Certified Cloud Practitioner",
+                "uniqueid": "aws-certified-cloud-practitioner",
+                "url": "aws-certified-cloud-practitioner",
+                "artworkUrl": "https://acloudguru-content-assets-production.s3-accelerate.amazonaws.com/aws-certified-cloud-practitioner-2-square.png",
+                "changelogs": [
+                    {
+                        "date": "2018-10-01T14:51:31.239Z",
+                        "description": "Support Type Updates",
+                        "author": "linkedin|9k1sAi8dfa"
+                    },
+                    {
+                        "date": "2018-10-01T14:01:15.655Z",
+                        "description": "Fixes to the Word Press Lab",
+                        "author": "linkedin|9k1sAi8dfa"
+                    }
+                ],
+                "metadata": {
+                    "createdDate": null,
+                    "updatedDate": "2018-10-01T14:51:31.239Z",
+                    "notifyUpdatedDate": "2018-10-01T14:51:31.239Z"
+                },
+                "sections": [
+                    {
+                        "title": "Introduction",
+                        "url": "Introduction",
+                        "sequence": 0,
+                        "sectionIdentifier": "d0b4ddea-1302-54e5-a966-b7583cb87311",
+                        "components": [
+                            {
+                                "title": "Who Can Do This Course",
+                                "url": "who-can-do-this-course",
+                                "sequence": 0,
+                                "componentIdentifier": "31ad22f3-0dfe-b9c6-40ca-abd30db431db",
+                                "enhancedSyllabus": null,
+                                "description": "Who can do this course? Well anyone! We make it easy as possible for people to learn cloud computing!",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 122,
+                                    "videosources": [
+                                        {
+                                            "duration": 122
+                                        },
+                                        {
+                                            "duration": 123
+                                        },
+                                        {
+                                            "duration": 122
+                                        },
+                                        {
+                                            "duration": 122
+                                        },
+                                        {
+                                            "duration": 123
+                                        },
+                                        {
+                                            "duration": 123
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Setting Up On A Mac",
+                                "url": "setting-up-on-a-mac",
+                                "sequence": 1,
+                                "componentIdentifier": "2653516b-8322-a4a8-4487-2054298cf99a",
+                                "enhancedSyllabus": null,
+                                "description": "How to setup your mac to do the rest of this course.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 107,
+                                    "videosources": [
+                                        {
+                                            "duration": 107
+                                        },
+                                        {
+                                            "duration": 107
+                                        },
+                                        {
+                                            "duration": 107
+                                        },
+                                        {
+                                            "duration": 107
+                                        },
+                                        {
+                                            "duration": 107
+                                        },
+                                        {
+                                            "duration": 107
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Setting Up On A Windows PC",
+                                "url": "setting-up-on-a-windows-pc",
+                                "sequence": 2,
+                                "componentIdentifier": "d709e114-b0d5-8379-92b2-0ba393ab0a9d",
+                                "enhancedSyllabus": null,
+                                "description": "How to setup your Windows PC to do the rest of this course.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 258,
+                                    "videosources": [
+                                        {
+                                            "duration": 258
+                                        },
+                                        {
+                                            "duration": 258
+                                        },
+                                        {
+                                            "duration": 258
+                                        },
+                                        {
+                                            "duration": 258
+                                        },
+                                        {
+                                            "duration": 258
+                                        },
+                                        {
+                                            "duration": 258
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "The Exam Blue Print",
+                                "url": "the-exam-blue-print",
+                                "sequence": 3,
+                                "componentIdentifier": "9f8ff44c-b2de-2e93-b17f-6d4138d6089e",
+                                "enhancedSyllabus": null,
+                                "description": "An overview of the AWS certified Cloud Practitioner exam blueprint",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 287,
+                                    "videosources": [
+                                        {
+                                            "duration": 287
+                                        },
+                                        {
+                                            "duration": 287
+                                        },
+                                        {
+                                            "duration": 287
+                                        },
+                                        {
+                                            "duration": 287
+                                        },
+                                        {
+                                            "duration": 287
+                                        },
+                                        {
+                                            "duration": 287
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Cloud Concepts And Technology",
+                        "url": "Cloud-Concepts-And-Technology",
+                        "sequence": 1,
+                        "sectionIdentifier": "d0ff4d90-24bc-00e2-e49f-1d1f240aead3",
+                        "components": [
+                            {
+                                "title": "What Is Cloud Computing?",
+                                "url": "what-is-cloud-computing",
+                                "sequence": 0,
+                                "componentIdentifier": "dc12f158-f21c-6f5a-9abd-ad2da3d76b93",
+                                "enhancedSyllabus": null,
+                                "description": "We've all heard the term, but do you know what Cloud Computing actually is, what benefits it brings, what the different types of cloud computing are and what are the different deployment models? In this lecture we explore the cloud.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 849,
+                                    "videosources": [
+                                        {
+                                            "duration": 849
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 849
+                                        },
+                                        {
+                                            "duration": 849
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Around The World With AWS",
+                                "url": "around-the-world-with-aws",
+                                "sequence": 1,
+                                "componentIdentifier": "a77708d5-ba1a-4ffc-40ea-b573a92c75d7",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we are going to learn the differences between regions, availability zones and edge locations.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 325,
+                                    "videosources": [
+                                        {
+                                            "duration": 325
+                                        },
+                                        {
+                                            "duration": 325
+                                        },
+                                        {
+                                            "duration": 325
+                                        },
+                                        {
+                                            "duration": 325
+                                        },
+                                        {
+                                            "duration": 325
+                                        },
+                                        {
+                                            "duration": 325
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Log In To AWS",
+                                "url": "lets-log-in-to-aws",
+                                "sequence": 2,
+                                "componentIdentifier": "725a6e9a-c3bc-712e-95a0-b54f66e53805",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we will create our new AWS account and log in to the console for the first time.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 361,
+                                    "videosources": [
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Free Tier Billing Alert",
+                                        "url": "https://aws.amazon.com/about-aws/whats-new/2017/12/aws-free-tier-usage-alerts-automatically-notify-you-when-you-are-forecasted-to-exceed-your-aws-service-usage-limits/",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Let’s Start To Cloud!  Identity Access Management (IAM)",
+                                "url": "lets-start-to-cloud-identity-access-management-iam",
+                                "sequence": 3,
+                                "componentIdentifier": "b5bbfeb1-a8b3-0d3b-0501-c98b456fdcfa",
+                                "enhancedSyllabus": null,
+                                "description": "This is our first hands on lab. In this lab we will set up new users, groups, assign security policies to groups, enable multifactor authentication on our accounts and start getting our hands dirty with AWS.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1051,
+                                    "videosources": [
+                                        {
+                                            "duration": 1051
+                                        },
+                                        {
+                                            "duration": 1051
+                                        },
+                                        {
+                                            "duration": 1051
+                                        },
+                                        {
+                                            "duration": 1051
+                                        },
+                                        {
+                                            "duration": 1051
+                                        },
+                                        {
+                                            "duration": 1051
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 101",
+                                "url": "s3-101",
+                                "sequence": 4,
+                                "componentIdentifier": "aee75c7c-c1c4-f165-e046-5d82bdf83c25",
+                                "enhancedSyllabus": null,
+                                "description": "In this theoretical lecture we'll learn all about the fundamentals of S3.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1221,
+                                    "videosources": [
+                                        {
+                                            "duration": 1221
+                                        },
+                                        {
+                                            "duration": 1221
+                                        },
+                                        {
+                                            "duration": 1221
+                                        },
+                                        {
+                                            "duration": 1221
+                                        },
+                                        {
+                                            "duration": 1221
+                                        },
+                                        {
+                                            "duration": 1221
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Create An S3 Bucket!",
+                                "url": "lets-create-an-s3-bucket",
+                                "sequence": 5,
+                                "componentIdentifier": "e1e236b5-f930-d4b6-3cda-830159be8685",
+                                "enhancedSyllabus": null,
+                                "description": "In this video we will create an S3 bucket in which to store our files. We'll also test transfer acceleration and briefly look at cross region replication.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 678,
+                                    "videosources": [
+                                        {
+                                            "duration": 678
+                                        },
+                                        {
+                                            "duration": 678
+                                        },
+                                        {
+                                            "duration": 678
+                                        },
+                                        {
+                                            "duration": 678
+                                        },
+                                        {
+                                            "duration": 678
+                                        },
+                                        {
+                                            "duration": 678
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Create A Website On S3",
+                                "url": "lets-create-a-website-on-s3",
+                                "sequence": 6,
+                                "componentIdentifier": "c72a36da-2c11-3295-6f6b-6bb353a94a77",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll create a website on S3.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 409,
+                                    "videosources": [
+                                        {
+                                            "duration": 409
+                                        },
+                                        {
+                                            "duration": 409
+                                        },
+                                        {
+                                            "duration": 409
+                                        },
+                                        {
+                                            "duration": 409
+                                        },
+                                        {
+                                            "duration": 409
+                                        },
+                                        {
+                                            "duration": 409
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab files for S3 Website (s3website.zip)",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-cloud-practitioner/resource/d0ff4d90-24bc-00e2-e49f-1d1f240aead3_c72a36da-2c11-3295-6f6b-6bb353a94a77/aws-certified-cloud-practitioner-91e86c07-b73e-41d6-adf5-d5c0885b4930.zip"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Let's Explore CloudFront",
+                                "url": "lets-explore-cloudfront",
+                                "sequence": 7,
+                                "componentIdentifier": "effbe0fd-08dc-31cc-60db-051ca286b152",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll create a cloudfront distribution.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 641,
+                                    "videosources": [
+                                        {
+                                            "duration": 641
+                                        },
+                                        {
+                                            "duration": 641
+                                        },
+                                        {
+                                            "duration": 641
+                                        },
+                                        {
+                                            "duration": 641
+                                        },
+                                        {
+                                            "duration": 641
+                                        },
+                                        {
+                                            "duration": 641
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "EC2 101",
+                                "url": "ec2-101",
+                                "sequence": 8,
+                                "componentIdentifier": "8a794915-1f93-5bfb-b754-ae4ef461018d",
+                                "enhancedSyllabus": null,
+                                "description": "Learn all about EC2 in this theoretical lecture. EC2 is the bedrock of AWS and perhaps its most famous service!",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1246,
+                                    "videosources": [
+                                        {
+                                            "duration": 1246
+                                        },
+                                        {
+                                            "duration": 1246
+                                        },
+                                        {
+                                            "duration": 1246
+                                        },
+                                        {
+                                            "duration": 1246
+                                        },
+                                        {
+                                            "duration": 1246
+                                        },
+                                        {
+                                            "duration": 1246
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Use EC2",
+                                "url": "lets-use-ec2",
+                                "sequence": 9,
+                                "componentIdentifier": "a76f4879-5d69-6529-690b-302092529e66",
+                                "enhancedSyllabus": null,
+                                "description": "Let's get our hands dirty and provision our very first EC2 instance.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 922,
+                                    "videosources": [
+                                        {
+                                            "duration": 922
+                                        },
+                                        {
+                                            "duration": 922
+                                        },
+                                        {
+                                            "duration": 922
+                                        },
+                                        {
+                                            "duration": 922
+                                        },
+                                        {
+                                            "duration": 922
+                                        },
+                                        {
+                                            "duration": 922
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "SSH & PuTTy",
+                                        "url": "https://help.acloud.guru/hc/en-us/search?utf8=%E2%9C%93&query=puttY+ssH+ppK",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Using The Command Line",
+                                "url": "using-the-command-line",
+                                "sequence": 10,
+                                "componentIdentifier": "a221908f-982a-bb5f-d0f9-0242b2f7109a",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we will use the EC2 command line.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 540,
+                                    "videosources": [
+                                        {
+                                            "duration": 540
+                                        },
+                                        {
+                                            "duration": 540
+                                        },
+                                        {
+                                            "duration": 540
+                                        },
+                                        {
+                                            "duration": 540
+                                        },
+                                        {
+                                            "duration": 540
+                                        },
+                                        {
+                                            "duration": 540
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Using Roles",
+                                "url": "using-roles",
+                                "sequence": 11,
+                                "componentIdentifier": "2cbbd447-8f03-84e6-d3f2-2839f8c8ee04",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at how we can use roles instead of access key id's and secret access keys.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 332,
+                                    "videosources": [
+                                        {
+                                            "duration": 332
+                                        },
+                                        {
+                                            "duration": 332
+                                        },
+                                        {
+                                            "duration": 332
+                                        },
+                                        {
+                                            "duration": 332
+                                        },
+                                        {
+                                            "duration": 332
+                                        },
+                                        {
+                                            "duration": 332
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Build A Web Server",
+                                "url": "lets-build-a-web-server",
+                                "sequence": 12,
+                                "componentIdentifier": "217ff4d8-2bb0-5c1c-fb8f-dfa6d89535cb",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll build a simple web server using Apache.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 381,
+                                    "videosources": [
+                                        {
+                                            "duration": 381
+                                        },
+                                        {
+                                            "duration": 381
+                                        },
+                                        {
+                                            "duration": 381
+                                        },
+                                        {
+                                            "duration": 381
+                                        },
+                                        {
+                                            "duration": 381
+                                        },
+                                        {
+                                            "duration": 381
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Lab files for Website (Same as S3 lab files)",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-cloud-practitioner/resource/d0ff4d90-24bc-00e2-e49f-1d1f240aead3_217ff4d8-2bb0-5c1c-fb8f-dfa6d89535cb/aws-certified-cloud-practitioner-21b4a59e-ecb2-41a5-be9e-23d28ffd644b.zip"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Let's Use A Load Balancer",
+                                "url": "lets-use-a-load-balancer",
+                                "sequence": 13,
+                                "componentIdentifier": "d07b3a8a-875f-64b0-a401-ba4552bc86f3",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we will learn how to use load balancers and how to add our instances behind them.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 804,
+                                    "videosources": [
+                                        {
+                                            "duration": 804
+                                        },
+                                        {
+                                            "duration": 804
+                                        },
+                                        {
+                                            "duration": 804
+                                        },
+                                        {
+                                            "duration": 804
+                                        },
+                                        {
+                                            "duration": 804
+                                        },
+                                        {
+                                            "duration": 804
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Simple Bootstrap script",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-cloud-practitioner/resource/d0ff4d90-24bc-00e2-e49f-1d1f240aead3_d07b3a8a-875f-64b0-a401-ba4552bc86f3/aws-certified-cloud-practitioner-a10cc470-a067-4aaa-a867-58dfc13c3643.txt"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Databases 101",
+                                "url": "databases-101",
+                                "sequence": 14,
+                                "componentIdentifier": "82286bdf-5cc0-6fc8-d016-5940d696ac62",
+                                "enhancedSyllabus": null,
+                                "description": "Learn the fundamentals around relational, non-relational and business intelligence/data warehouse databases.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 749,
+                                    "videosources": [
+                                        {
+                                            "duration": 749
+                                        },
+                                        {
+                                            "duration": 749
+                                        },
+                                        {
+                                            "duration": 749
+                                        },
+                                        {
+                                            "duration": 749
+                                        },
+                                        {
+                                            "duration": 749
+                                        },
+                                        {
+                                            "duration": 749
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's provision an RDS instance",
+                                "url": "lets-provision-an-rds-instance",
+                                "sequence": 15,
+                                "componentIdentifier": "59eff486-d4bc-4a9e-938a-358f44e25fb8",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll dive in to AWS and provision an RDS instance.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-01T14:01:15.655Z",
+                                    "notifyUpdatedDate": "2018-10-01T14:01:15.655Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1209,
+                                    "videosources": [
+                                        {
+                                            "duration": 1209
+                                        },
+                                        {
+                                            "duration": 1209
+                                        },
+                                        {
+                                            "duration": 1209
+                                        },
+                                        {
+                                            "duration": 1209
+                                        },
+                                        {
+                                            "duration": 1209
+                                        },
+                                        {
+                                            "duration": 1209
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "Bootstrap",
+                                        "url": null,
+                                        "bucket": "acloud-content",
+                                        "key": "aws-certified-cloud-practitioner/resource/d0ff4d90-24bc-00e2-e49f-1d1f240aead3_59eff486-d4bc-4a9e-938a-358f44e25fb8/aws-certified-cloud-practitioner-6215757e-f2dd-434e-8578-b03223cfe6ad.sh"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Autoscaling",
+                                "url": "autoscaling",
+                                "sequence": 16,
+                                "componentIdentifier": "4c146e57-3476-7dcb-ac84-d395024ef86f",
+                                "enhancedSyllabus": null,
+                                "description": "Let's make our application redundant using autoscaling.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 567,
+                                    "videosources": [
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        },
+                                        {
+                                            "duration": 567
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Let's Register A Domain Name",
+                                "url": "lets-register-a-domain-name",
+                                "sequence": 17,
+                                "componentIdentifier": "732f5b0a-575c-af35-9947-7a2c9dc96006",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll register a domain name using Route53.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 474,
+                                    "videosources": [
+                                        {
+                                            "duration": 474
+                                        },
+                                        {
+                                            "duration": 474
+                                        },
+                                        {
+                                            "duration": 474
+                                        },
+                                        {
+                                            "duration": 474
+                                        },
+                                        {
+                                            "duration": 474
+                                        },
+                                        {
+                                            "duration": 474
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Elastic Beanstalk",
+                                "url": "elastic-beanstalk",
+                                "sequence": 18,
+                                "componentIdentifier": "c230993b-b4b2-61bc-7376-f1e7d96db013",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at how we can automate our infrastructure provisioning using Elastic Beanstalk.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 249,
+                                    "videosources": [
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        },
+                                        {
+                                            "duration": 249
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudFormation",
+                                "url": "cloudformation",
+                                "sequence": 19,
+                                "componentIdentifier": "bfce333e-3a64-f233-802d-857a94af07fc",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at how we can turn our infrastructure in to code using AWS CloudFormation.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 460,
+                                    "videosources": [
+                                        {
+                                            "duration": 460
+                                        },
+                                        {
+                                            "duration": 460
+                                        },
+                                        {
+                                            "duration": 460
+                                        },
+                                        {
+                                            "duration": 460
+                                        },
+                                        {
+                                            "duration": 460
+                                        },
+                                        {
+                                            "duration": 460
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Architecting For The Cloud Best Practices",
+                                "url": "architecting-for-the-cloud-best-practices",
+                                "sequence": 20,
+                                "componentIdentifier": "05d7a0fd-f6c8-38f9-d832-9303220e68fd",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll review the architecting for the cloud best practices white paper.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1275,
+                                    "videosources": [
+                                        {
+                                            "duration": 1275
+                                        },
+                                        {
+                                            "duration": 1275
+                                        },
+                                        {
+                                            "duration": 1275
+                                        },
+                                        {
+                                            "duration": 1275
+                                        },
+                                        {
+                                            "duration": 1275
+                                        },
+                                        {
+                                            "duration": 1275
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Cloud Concepts & Technology Summary",
+                                "url": "cloud-concepts-and-technology-summary",
+                                "sequence": 21,
+                                "componentIdentifier": "29979336-bcd6-b19e-e63a-2fbd7076930d",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll review what we've learnt in Section 2 of Cloud Concepts & Technology.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 598,
+                                    "videosources": [
+                                        {
+                                            "duration": 598
+                                        },
+                                        {
+                                            "duration": 598
+                                        },
+                                        {
+                                            "duration": 598
+                                        },
+                                        {
+                                            "duration": 598
+                                        },
+                                        {
+                                            "duration": 598
+                                        },
+                                        {
+                                            "duration": 598
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Chapter 2 Quiz",
+                                "url": "chapter2-quiz",
+                                "sequence": 22,
+                                "componentIdentifier": "23afa627-6193-4a5b-5626-c8eb1bcbab3d",
+                                "enhancedSyllabus": null,
+                                "description": "Chapter 2 Quiz",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "quiz",
+                                    "quizName": "chapter-2"
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Billing & Pricing",
+                        "url": "billing-and-pricing",
+                        "sequence": 2,
+                        "sectionIdentifier": "a453fbec-31f2-71e1-af1f-5fc674c919b3",
+                        "components": [
+                            {
+                                "title": "AWS Pricing 101",
+                                "url": "aws-pricing-101",
+                                "sequence": 0,
+                                "componentIdentifier": "b659bfe9-78dd-1be1-8074-391fd58b06bd",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture you will learn the basics of AWS pricing for the fundamental services.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 636,
+                                    "videosources": [
+                                        {
+                                            "duration": 636
+                                        },
+                                        {
+                                            "duration": 636
+                                        },
+                                        {
+                                            "duration": 636
+                                        },
+                                        {
+                                            "duration": 636
+                                        },
+                                        {
+                                            "duration": 636
+                                        },
+                                        {
+                                            "duration": 636
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Different Support Levels",
+                                "url": "different-support-levels",
+                                "sequence": 1,
+                                "componentIdentifier": "907fec1c-a3ec-4a7b-da34-28f8b3225726",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at the different support levels available to AWS customers.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-01T14:51:31.239Z",
+                                    "notifyUpdatedDate": "2018-10-01T14:51:31.239Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 253,
+                                    "videosources": [
+                                        {
+                                            "duration": 253
+                                        },
+                                        {
+                                            "duration": 253
+                                        },
+                                        {
+                                            "duration": 253
+                                        },
+                                        {
+                                            "duration": 253
+                                        },
+                                        {
+                                            "duration": 253
+                                        },
+                                        {
+                                            "duration": 253
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Resource Groups & Tagging",
+                                "url": "resource-groups-and-tagging",
+                                "sequence": 2,
+                                "componentIdentifier": "49d9fb5a-dfad-8261-e112-2d4507bb61c8",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at using resource groups and tagging.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 436,
+                                    "videosources": [
+                                        {
+                                            "duration": 436
+                                        },
+                                        {
+                                            "duration": 436
+                                        },
+                                        {
+                                            "duration": 436
+                                        },
+                                        {
+                                            "duration": 436
+                                        },
+                                        {
+                                            "duration": 436
+                                        },
+                                        {
+                                            "duration": 436
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Consolidated Billing",
+                                "url": "consolidated-billing",
+                                "sequence": 3,
+                                "componentIdentifier": "0d3b80a5-e1cc-e8de-16b6-c8ff9263ca91",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at how using consolidated billing can save us money.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 423,
+                                    "videosources": [
+                                        {
+                                            "duration": 423
+                                        },
+                                        {
+                                            "duration": 423
+                                        },
+                                        {
+                                            "duration": 423
+                                        },
+                                        {
+                                            "duration": 423
+                                        },
+                                        {
+                                            "duration": 423
+                                        },
+                                        {
+                                            "duration": 423
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Organizations",
+                                "url": "aws-organizations",
+                                "sequence": 4,
+                                "componentIdentifier": "df484a6e-4528-6abd-4bbc-be5e3847a8d4",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look AWS Organizations.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 374,
+                                    "videosources": [
+                                        {
+                                            "duration": 374
+                                        },
+                                        {
+                                            "duration": 374
+                                        },
+                                        {
+                                            "duration": 374
+                                        },
+                                        {
+                                            "duration": 374
+                                        },
+                                        {
+                                            "duration": 374
+                                        },
+                                        {
+                                            "duration": 374
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Quick Starts",
+                                "url": "aws-quick-starts",
+                                "sequence": 5,
+                                "componentIdentifier": "af4fe484-34e7-7144-6910-9f02d9c984f5",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 186,
+                                    "videosources": [
+                                        {
+                                            "duration": 186
+                                        },
+                                        {
+                                            "duration": 186
+                                        },
+                                        {
+                                            "duration": 186
+                                        },
+                                        {
+                                            "duration": 186
+                                        },
+                                        {
+                                            "duration": 186
+                                        },
+                                        {
+                                            "duration": 186
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Different AWS Cost Calculators",
+                                "url": "4890bb0c-7b03-18fb-41a4-ac6d8c3b456a",
+                                "sequence": 6,
+                                "componentIdentifier": "c0d2461c-58e6-3d31-be49-a47d9d824f3f",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 246,
+                                    "videosources": [
+                                        {
+                                            "duration": 246
+                                        },
+                                        {
+                                            "duration": 246
+                                        },
+                                        {
+                                            "duration": 246
+                                        },
+                                        {
+                                            "duration": 246
+                                        },
+                                        {
+                                            "duration": 246
+                                        },
+                                        {
+                                            "duration": 246
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Billing & Pricing Summary",
+                                "url": "billing-and-pricing-summary",
+                                "sequence": 7,
+                                "componentIdentifier": "9de9cdb0-2865-ded0-0b73-3b99a44e7aec",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at what we've learnt about billing and pricing in AWS.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 300,
+                                    "videosources": [
+                                        {
+                                            "duration": 300
+                                        },
+                                        {
+                                            "duration": 300
+                                        },
+                                        {
+                                            "duration": 300
+                                        },
+                                        {
+                                            "duration": 300
+                                        },
+                                        {
+                                            "duration": 300
+                                        },
+                                        {
+                                            "duration": 300
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Chapter 3 Quiz",
+                                "url": "chapter-3-quiz",
+                                "sequence": 8,
+                                "componentIdentifier": "b90cbb0e-e9dc-d961-1f8c-2818e4f25b59",
+                                "enhancedSyllabus": null,
+                                "description": "Chapter 3 Quiz",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "quiz",
+                                    "quizName": "chapter-3"
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Security In The Cloud",
+                        "url": "security-in-the-cloud",
+                        "sequence": 3,
+                        "sectionIdentifier": "35a67841-b95e-1fb3-b1ad-baa67a63ff89",
+                        "components": [
+                            {
+                                "title": "AWS Compliance",
+                                "url": "aws-compliance",
+                                "sequence": 0,
+                                "componentIdentifier": "64d8b12a-5189-026f-312c-92447ff06de4",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at the various AWS compliance attestations.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 196,
+                                    "videosources": [
+                                        {
+                                            "duration": 196
+                                        },
+                                        {
+                                            "duration": 196
+                                        },
+                                        {
+                                            "duration": 196
+                                        },
+                                        {
+                                            "duration": 196
+                                        },
+                                        {
+                                            "duration": 196
+                                        },
+                                        {
+                                            "duration": 196
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Shared Responsibility Model",
+                                "url": "shared-responsibility-model",
+                                "sequence": 1,
+                                "componentIdentifier": "0f55fc71-4e31-efcd-a466-6f777494f154",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll look at the shared responsibility model.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 245,
+                                    "videosources": [
+                                        {
+                                            "duration": 245
+                                        },
+                                        {
+                                            "duration": 245
+                                        },
+                                        {
+                                            "duration": 245
+                                        },
+                                        {
+                                            "duration": 245
+                                        },
+                                        {
+                                            "duration": 245
+                                        },
+                                        {
+                                            "duration": 245
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS WAF & AWS Shield",
+                                "url": "security-services-in-the-console",
+                                "sequence": 2,
+                                "componentIdentifier": "ba7b044a-34c4-0b02-77c9-fc5353454fce",
+                                "enhancedSyllabus": null,
+                                "description": "In this lecture we'll learn what AWS WAF is and what AWS Shield is.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 275,
+                                    "videosources": [
+                                        {
+                                            "duration": 275
+                                        },
+                                        {
+                                            "duration": 275
+                                        },
+                                        {
+                                            "duration": 275
+                                        },
+                                        {
+                                            "duration": 275
+                                        },
+                                        {
+                                            "duration": 275
+                                        },
+                                        {
+                                            "duration": 275
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Inspector vs AWS Trusted Advisor",
+                                "url": "aws-inspector-vs-aws-trusted-advisor",
+                                "sequence": 3,
+                                "componentIdentifier": "e3ca6a9c-0422-e456-4d9c-eabc99685029",
+                                "enhancedSyllabus": null,
+                                "description": "AWS inspector vs AWS Trusted advisor. You need to have a clear understanding of the differences going in to your exam.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 267,
+                                    "videosources": [
+                                        {
+                                            "duration": 267
+                                        },
+                                        {
+                                            "duration": 267
+                                        },
+                                        {
+                                            "duration": 267
+                                        },
+                                        {
+                                            "duration": 267
+                                        },
+                                        {
+                                            "duration": 267
+                                        },
+                                        {
+                                            "duration": 267
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Security Summary",
+                                "url": "security-summary",
+                                "sequence": 4,
+                                "componentIdentifier": "44957e54-8395-e5f5-4e6a-771fa0d258e8",
+                                "enhancedSyllabus": null,
+                                "description": "What we learnt in the security section of the course.",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 268,
+                                    "videosources": [
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        },
+                                        {
+                                            "duration": 268
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Chapter 4 Quiz",
+                                "url": "chapter-4-quiz",
+                                "sequence": 5,
+                                "componentIdentifier": "d322eefd-5d1d-8c26-d672-feeca6800f77",
+                                "enhancedSyllabus": null,
+                                "description": "Chapter 4 Quiz",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "quiz",
+                                    "quizName": "chapter-4"
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Chapter 5 - Mega Quiz",
+                        "url": "68c666ec-4d85-045f-a827-3066fc5628c5",
+                        "sequence": 4,
+                        "sectionIdentifier": "361ea369-8b0e-6b8f-b8f7-43814fe8272e",
+                        "components": [
+                            {
+                                "title": "Mega Quiz",
+                                "url": "3de1c119-6180-0927-d883-5f39f72b9bd2",
+                                "sequence": 0,
+                                "componentIdentifier": "f65c7f4a-d079-cc8e-0cc8-f41172783e25",
+                                "enhancedSyllabus": null,
+                                "description": "Mega Quiz",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "quiz",
+                                    "quizName": "mega-quiz-1"
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Summary & Good Luck!",
+                        "url": "summary-and-good-luck",
+                        "sequence": 5,
+                        "sectionIdentifier": "1a6cf295-efa3-3e0b-6bbb-db94d64e2764",
+                        "components": [
+                            {
+                                "title": "How To Book Your Exam",
+                                "url": "9e58d2fb-1b47-534f-5ecf-1b73445b3359",
+                                "sequence": 0,
+                                "componentIdentifier": "f637c9bd-af52-0283-ef92-6b517c2e30e2",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 116,
+                                    "videosources": [
+                                        {
+                                            "duration": 116
+                                        },
+                                        {
+                                            "duration": 116
+                                        },
+                                        {
+                                            "duration": 116
+                                        },
+                                        {
+                                            "duration": 116
+                                        },
+                                        {
+                                            "duration": 116
+                                        },
+                                        {
+                                            "duration": 116
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Thank You And Good Luck!",
+                                "url": "b699d0ee-eaa3-21d8-efb7-50e26b8f8048",
+                                "sequence": 1,
+                                "componentIdentifier": "ef36be4f-36a3-83b7-587c-5505535174c3",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 48,
+                                    "videosources": [
+                                        {
+                                            "duration": 48
+                                        },
+                                        {
+                                            "duration": 48
+                                        },
+                                        {
+                                            "duration": 48
+                                        },
+                                        {
+                                            "duration": 48
+                                        },
+                                        {
+                                            "duration": 48
+                                        },
+                                        {
+                                            "duration": 48
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

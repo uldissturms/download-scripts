@@ -41,6 +41,7 @@ various scripts to download contents from courses and other sites for offline us
       3. save response that contains signed video URLs as `videos.json`
   2. parse & filter 1080 videos `./parse [course]`
   3. download content `./download [course]`
+  3. fix video titles `./fix-titles [course]`
 
 ### requirements
 

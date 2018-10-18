@@ -1,0 +1,2839 @@
+{
+    "data": {
+        "getCourses": [
+            {
+                "title": "Certified Advanced Networking - Specialty",
+                "uniqueid": "aws-certified-adv-networking-specialty",
+                "url": "aws-certified-advanced-networking-specialty",
+                "artworkUrl": "https://acloudguru-content-assets-production.s3-accelerate.amazonaws.com/aws-certified-advanced-networking-specialty-2-square.png",
+                "changelogs": [
+                    {
+                        "date": "2018-10-02T09:41:43.718Z",
+                        "description": "Update IPv4 lesson.",
+                        "author": "linkedin|9k1sAi8dfa"
+                    }
+                ],
+                "metadata": {
+                    "createdDate": null,
+                    "updatedDate": "2018-10-02T09:41:43.718Z",
+                    "notifyUpdatedDate": "2018-10-02T09:41:43.718Z"
+                },
+                "sections": [
+                    {
+                        "title": "Introduction",
+                        "url": "d4fff477-f9a3-e401-45b9-0ea0dd922880",
+                        "sequence": 0,
+                        "sectionIdentifier": "d4fff477-f9a3-e401-45b9-0ea0dd922880",
+                        "components": [
+                            {
+                                "title": "Public Introduction",
+                                "url": "7cbdf9f7-ef72-55b2-dc53-ef165847b889",
+                                "sequence": 0,
+                                "componentIdentifier": "7cbdf9f7-ef72-55b2-dc53-ef165847b889",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 65,
+                                    "videosources": [
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        },
+                                        {
+                                            "duration": 65
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Networking Refresher",
+                        "url": "bf2aa7f3-825f-e874-df8f-27b650dfbea3",
+                        "sequence": 1,
+                        "sectionIdentifier": "bf2aa7f3-825f-e874-df8f-27b650dfbea3",
+                        "components": [
+                            {
+                                "title": "The 7 Layers of the OSI Model - PART 1",
+                                "url": "99c39c26-1383-f079-fb72-22f4c792210d",
+                                "sequence": 0,
+                                "componentIdentifier": "99c39c26-1383-f079-fb72-22f4c792210d",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1064,
+                                    "videosources": [
+                                        {
+                                            "duration": 1064
+                                        },
+                                        {
+                                            "duration": 1064
+                                        },
+                                        {
+                                            "duration": 1064
+                                        },
+                                        {
+                                            "duration": 1064
+                                        },
+                                        {
+                                            "duration": 1064
+                                        },
+                                        {
+                                            "duration": 1064
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "The 7 Layers of the OSI Model - PART 2",
+                                "url": "9a02886c-e69c-6fcb-6d03-6dcb3e15062a",
+                                "sequence": 1,
+                                "componentIdentifier": "9a02886c-e69c-6fcb-6d03-6dcb3e15062a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 373,
+                                    "videosources": [
+                                        {
+                                            "duration": 373
+                                        },
+                                        {
+                                            "duration": 373
+                                        },
+                                        {
+                                            "duration": 373
+                                        },
+                                        {
+                                            "duration": 373
+                                        },
+                                        {
+                                            "duration": 373
+                                        },
+                                        {
+                                            "duration": 373
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Internet Protocol v4 - PART 1",
+                                "url": "cbf7d438-e852-2ae5-3cab-31c0684a5e5e",
+                                "sequence": 2,
+                                "componentIdentifier": "cbf7d438-e852-2ae5-3cab-31c0684a5e5e",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 624,
+                                    "videosources": [
+                                        {
+                                            "duration": 624
+                                        },
+                                        {
+                                            "duration": 624
+                                        },
+                                        {
+                                            "duration": 624
+                                        },
+                                        {
+                                            "duration": 624
+                                        },
+                                        {
+                                            "duration": 624
+                                        },
+                                        {
+                                            "duration": 624
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "IPv4 - subnet calculator",
+                                        "url": "http://www.subnet-calculator.com/cidr.php",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Internet Protocol v4 - PART 2",
+                                "url": "d2c35820-aab2-c487-7163-94de43a2e044",
+                                "sequence": 3,
+                                "componentIdentifier": "d2c35820-aab2-c487-7163-94de43a2e044",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": "2018-10-02T09:41:43.718Z",
+                                    "notifyUpdatedDate": "2018-10-02T09:41:43.718Z"
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1074,
+                                    "videosources": [
+                                        {
+                                            "duration": 1074
+                                        },
+                                        {
+                                            "duration": 1074
+                                        },
+                                        {
+                                            "duration": 1074
+                                        },
+                                        {
+                                            "duration": 1074
+                                        },
+                                        {
+                                            "duration": 1074
+                                        },
+                                        {
+                                            "duration": 1074
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Internet Protocol v4 - PART 3",
+                                "url": "5e226488-f8c9-0492-583f-2f6d4fdadb0a",
+                                "sequence": 4,
+                                "componentIdentifier": "5e226488-f8c9-0492-583f-2f6d4fdadb0a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 612,
+                                    "videosources": [
+                                        {
+                                            "duration": 612
+                                        },
+                                        {
+                                            "duration": 612
+                                        },
+                                        {
+                                            "duration": 612
+                                        },
+                                        {
+                                            "duration": 612
+                                        },
+                                        {
+                                            "duration": 612
+                                        },
+                                        {
+                                            "duration": 612
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VLANS, Access Ports and Trunks",
+                                "url": "54330794-a482-3499-3fe0-1d273d8c47c4",
+                                "sequence": 5,
+                                "componentIdentifier": "54330794-a482-3499-3fe0-1d273d8c47c4",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 955,
+                                    "videosources": [
+                                        {
+                                            "duration": 955
+                                        },
+                                        {
+                                            "duration": 955
+                                        },
+                                        {
+                                            "duration": 955
+                                        },
+                                        {
+                                            "duration": 955
+                                        },
+                                        {
+                                            "duration": 955
+                                        },
+                                        {
+                                            "duration": 955
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "IPSEC VPN",
+                                "url": "d9c5bece-1bce-532c-a011-30cd133e27c2",
+                                "sequence": 6,
+                                "componentIdentifier": "d9c5bece-1bce-532c-a011-30cd133e27c2",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 629,
+                                    "videosources": [
+                                        {
+                                            "duration": 629
+                                        },
+                                        {
+                                            "duration": 629
+                                        },
+                                        {
+                                            "duration": 629
+                                        },
+                                        {
+                                            "duration": 629
+                                        },
+                                        {
+                                            "duration": 629
+                                        },
+                                        {
+                                            "duration": 629
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "DNS Basics - PART 1",
+                                "url": "c57bccc9-47d7-3ddb-698d-0fb78aa59acd",
+                                "sequence": 7,
+                                "componentIdentifier": "c57bccc9-47d7-3ddb-698d-0fb78aa59acd",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 585,
+                                    "videosources": [
+                                        {
+                                            "duration": 585
+                                        },
+                                        {
+                                            "duration": 585
+                                        },
+                                        {
+                                            "duration": 585
+                                        },
+                                        {
+                                            "duration": 585
+                                        },
+                                        {
+                                            "duration": 585
+                                        },
+                                        {
+                                            "duration": 585
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "IANA- Current Root servers",
+                                        "url": "https://www.iana.org/domains/root/servers",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "DNS Basics - PART2",
+                                "url": "863dac4d-e7b7-5637-ffb3-9d495f78b157",
+                                "sequence": 8,
+                                "componentIdentifier": "863dac4d-e7b7-5637-ffb3-9d495f78b157",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 751,
+                                    "videosources": [
+                                        {
+                                            "duration": 751
+                                        },
+                                        {
+                                            "duration": 751
+                                        },
+                                        {
+                                            "duration": 751
+                                        },
+                                        {
+                                            "duration": 751
+                                        },
+                                        {
+                                            "duration": 751
+                                        },
+                                        {
+                                            "duration": 751
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "BGP Fundamentals",
+                                "url": "5a94fa5d-6da1-132c-44ba-e43813e194b5",
+                                "sequence": 9,
+                                "componentIdentifier": "5a94fa5d-6da1-132c-44ba-e43813e194b5",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 997,
+                                    "videosources": [
+                                        {
+                                            "duration": 997
+                                        },
+                                        {
+                                            "duration": 997
+                                        },
+                                        {
+                                            "duration": 997
+                                        },
+                                        {
+                                            "duration": 997
+                                        },
+                                        {
+                                            "duration": 997
+                                        },
+                                        {
+                                            "duration": 997
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "MED - Multi-Exit Discriminator",
+                                "url": "8491a72a-ba7c-3fce-8495-6fd6821ae898",
+                                "sequence": 10,
+                                "componentIdentifier": "8491a72a-ba7c-3fce-8495-6fd6821ae898",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1163,
+                                    "videosources": [
+                                        {
+                                            "duration": 1163
+                                        },
+                                        {
+                                            "duration": 1163
+                                        },
+                                        {
+                                            "duration": 1163
+                                        },
+                                        {
+                                            "duration": 1163
+                                        },
+                                        {
+                                            "duration": 1163
+                                        },
+                                        {
+                                            "duration": 1163
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Design & Implement AWS Networks",
+                        "url": "35ddc9df-30f6-e3d8-a9d6-db59f073aa60",
+                        "sequence": 2,
+                        "sectionIdentifier": "35ddc9df-30f6-e3d8-a9d6-db59f073aa60",
+                        "components": [
+                            {
+                                "title": "AWS Global and Regional Infrastructure",
+                                "url": "70020ac3-a188-2fd2-1cb7-5da5b6f0be91",
+                                "sequence": 0,
+                                "componentIdentifier": "70020ac3-a188-2fd2-1cb7-5da5b6f0be91",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 828,
+                                    "videosources": [
+                                        {
+                                            "duration": 828
+                                        },
+                                        {
+                                            "duration": 828
+                                        },
+                                        {
+                                            "duration": 828
+                                        },
+                                        {
+                                            "duration": 828
+                                        },
+                                        {
+                                            "duration": 828
+                                        },
+                                        {
+                                            "duration": 828
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC and Basic Networking Design - PART 1",
+                                "url": "39bc3dc0-2a2a-599d-1577-f2a9efcf34f0",
+                                "sequence": 1,
+                                "componentIdentifier": "39bc3dc0-2a2a-599d-1577-f2a9efcf34f0",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 461,
+                                    "videosources": [
+                                        {
+                                            "duration": 461
+                                        },
+                                        {
+                                            "duration": 461
+                                        },
+                                        {
+                                            "duration": 461
+                                        },
+                                        {
+                                            "duration": 461
+                                        },
+                                        {
+                                            "duration": 461
+                                        },
+                                        {
+                                            "duration": 461
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC and Basic Networking Design - PART 2",
+                                "url": "5b70d24d-06a4-edf3-6609-ccb598cd5cec",
+                                "sequence": 2,
+                                "componentIdentifier": "5b70d24d-06a4-edf3-6609-ccb598cd5cec",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 529,
+                                    "videosources": [
+                                        {
+                                            "duration": 529
+                                        },
+                                        {
+                                            "duration": 529
+                                        },
+                                        {
+                                            "duration": 529
+                                        },
+                                        {
+                                            "duration": 529
+                                        },
+                                        {
+                                            "duration": 529
+                                        },
+                                        {
+                                            "duration": 529
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - VPC Router",
+                                "url": "b8a9f0fd-1025-5b41-33e9-79c67925cadc",
+                                "sequence": 3,
+                                "componentIdentifier": "b8a9f0fd-1025-5b41-33e9-79c67925cadc",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 740,
+                                    "videosources": [
+                                        {
+                                            "duration": 740
+                                        },
+                                        {
+                                            "duration": 740
+                                        },
+                                        {
+                                            "duration": 740
+                                        },
+                                        {
+                                            "duration": 740
+                                        },
+                                        {
+                                            "duration": 740
+                                        },
+                                        {
+                                            "duration": 740
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - ENI, Elastic IP & Internet Gateway (IGW) - PART1",
+                                "url": "e6a87e05-80c6-b193-16ec-945bedacb3f3",
+                                "sequence": 4,
+                                "componentIdentifier": "e6a87e05-80c6-b193-16ec-945bedacb3f3",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 471,
+                                    "videosources": [
+                                        {
+                                            "duration": 471
+                                        },
+                                        {
+                                            "duration": 471
+                                        },
+                                        {
+                                            "duration": 471
+                                        },
+                                        {
+                                            "duration": 471
+                                        },
+                                        {
+                                            "duration": 471
+                                        },
+                                        {
+                                            "duration": 471
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - ENI, Elastic IP & Internet Gateway (IGW) - PART2",
+                                "url": "11dbd825-2e99-cfd9-7956-9191e8f0f1dc",
+                                "sequence": 5,
+                                "componentIdentifier": "11dbd825-2e99-cfd9-7956-9191e8f0f1dc",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 809,
+                                    "videosources": [
+                                        {
+                                            "duration": 809
+                                        },
+                                        {
+                                            "duration": 809
+                                        },
+                                        {
+                                            "duration": 809
+                                        },
+                                        {
+                                            "duration": 809
+                                        },
+                                        {
+                                            "duration": 809
+                                        },
+                                        {
+                                            "duration": 809
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html",
+                                        "url": "http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Deep Dive - Security Group & NACL - PART 1",
+                                "url": "f3afa63d-3551-bbc4-9c6d-a31edd66c0ab",
+                                "sequence": 6,
+                                "componentIdentifier": "f3afa63d-3551-bbc4-9c6d-a31edd66c0ab",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 603,
+                                    "videosources": [
+                                        {
+                                            "duration": 603
+                                        },
+                                        {
+                                            "duration": 603
+                                        },
+                                        {
+                                            "duration": 603
+                                        },
+                                        {
+                                            "duration": 603
+                                        },
+                                        {
+                                            "duration": 603
+                                        },
+                                        {
+                                            "duration": 603
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - Security Group & NACL - PART 2",
+                                "url": "5c214c61-638f-0a8e-8bc8-c6afa21d3f60",
+                                "sequence": 7,
+                                "componentIdentifier": "5c214c61-638f-0a8e-8bc8-c6afa21d3f60",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 335,
+                                    "videosources": [
+                                        {
+                                            "duration": 335
+                                        },
+                                        {
+                                            "duration": 335
+                                        },
+                                        {
+                                            "duration": 335
+                                        },
+                                        {
+                                            "duration": 335
+                                        },
+                                        {
+                                            "duration": 335
+                                        },
+                                        {
+                                            "duration": 335
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - Security Group & NACL - PART 3",
+                                "url": "017c375b-c1a0-44fb-f646-1afc1ccb2e70",
+                                "sequence": 8,
+                                "componentIdentifier": "017c375b-c1a0-44fb-f646-1afc1ccb2e70",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 625,
+                                    "videosources": [
+                                        {
+                                            "duration": 625
+                                        },
+                                        {
+                                            "duration": 625
+                                        },
+                                        {
+                                            "duration": 625
+                                        },
+                                        {
+                                            "duration": 625
+                                        },
+                                        {
+                                            "duration": 625
+                                        },
+                                        {
+                                            "duration": 625
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - NAT GATEWAY - PART1",
+                                "url": "7d994acf-c854-c2ff-adba-452e3ddc7fca",
+                                "sequence": 9,
+                                "componentIdentifier": "7d994acf-c854-c2ff-adba-452e3ddc7fca",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 553,
+                                    "videosources": [
+                                        {
+                                            "duration": 553
+                                        },
+                                        {
+                                            "duration": 553
+                                        },
+                                        {
+                                            "duration": 553
+                                        },
+                                        {
+                                            "duration": 553
+                                        },
+                                        {
+                                            "duration": 553
+                                        },
+                                        {
+                                            "duration": 553
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - NAT GATEWAY - PART2",
+                                "url": "7c326645-602b-b91d-b7a7-2a4d9315ca66",
+                                "sequence": 10,
+                                "componentIdentifier": "7c326645-602b-b91d-b7a7-2a4d9315ca66",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 390,
+                                    "videosources": [
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - Virtual Private Gateway - VGW",
+                                "url": "7a927c2c-5880-02ab-8a2c-1644c000e31b",
+                                "sequence": 11,
+                                "componentIdentifier": "7a927c2c-5880-02ab-8a2c-1644c000e31b",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 897,
+                                    "videosources": [
+                                        {
+                                            "duration": 897
+                                        },
+                                        {
+                                            "duration": 897
+                                        },
+                                        {
+                                            "duration": 897
+                                        },
+                                        {
+                                            "duration": 897
+                                        },
+                                        {
+                                            "duration": 897
+                                        },
+                                        {
+                                            "duration": 897
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Subnet Architecture Types",
+                                "url": "e5558acc-e07a-4b72-fd12-47018a7fcf6e",
+                                "sequence": 12,
+                                "componentIdentifier": "e5558acc-e07a-4b72-fd12-47018a7fcf6e",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 502,
+                                    "videosources": [
+                                        {
+                                            "duration": 502
+                                        },
+                                        {
+                                            "duration": 502
+                                        },
+                                        {
+                                            "duration": 502
+                                        },
+                                        {
+                                            "duration": 502
+                                        },
+                                        {
+                                            "duration": 502
+                                        },
+                                        {
+                                            "duration": 502
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - VPC Peering",
+                                "url": "d02dc7a9-3cff-6c12-05ec-e5182070a119",
+                                "sequence": 13,
+                                "componentIdentifier": "d02dc7a9-3cff-6c12-05ec-e5182070a119",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 817,
+                                    "videosources": [
+                                        {
+                                            "duration": 817
+                                        },
+                                        {
+                                            "duration": 817
+                                        },
+                                        {
+                                            "duration": 817
+                                        },
+                                        {
+                                            "duration": 817
+                                        },
+                                        {
+                                            "duration": 817
+                                        },
+                                        {
+                                            "duration": 817
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Multi-VPC Architecture",
+                                "url": "d0265228-5349-b425-0ae5-8e4399df4927",
+                                "sequence": 14,
+                                "componentIdentifier": "d0265228-5349-b425-0ae5-8e4399df4927",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 515,
+                                    "videosources": [
+                                        {
+                                            "duration": 515
+                                        },
+                                        {
+                                            "duration": 515
+                                        },
+                                        {
+                                            "duration": 515
+                                        },
+                                        {
+                                            "duration": 515
+                                        },
+                                        {
+                                            "duration": 515
+                                        },
+                                        {
+                                            "duration": 515
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Deep Dive - VPC Endpoints (s3)",
+                                "url": "2933f44f-63bb-5ad2-443c-e060ea945ee4",
+                                "sequence": 15,
+                                "componentIdentifier": "2933f44f-63bb-5ad2-443c-e060ea945ee4",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 839,
+                                    "videosources": [
+                                        {
+                                            "duration": 839
+                                        },
+                                        {
+                                            "duration": 839
+                                        },
+                                        {
+                                            "duration": 839
+                                        },
+                                        {
+                                            "duration": 839
+                                        },
+                                        {
+                                            "duration": 839
+                                        },
+                                        {
+                                            "duration": 839
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Design & Implement Hybrid Networks At Scale",
+                        "url": "87046339-9ada-40a3-6422-16a95ebc6ed5",
+                        "sequence": 3,
+                        "sectionIdentifier": "87046339-9ada-40a3-6422-16a95ebc6ed5",
+                        "components": [
+                            {
+                                "title": "Why Hybrid ?",
+                                "url": "349b304c-12aa-7f6c-3ce9-253cdeede5a4",
+                                "sequence": 0,
+                                "componentIdentifier": "349b304c-12aa-7f6c-3ce9-253cdeede5a4",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 985,
+                                    "videosources": [
+                                        {
+                                            "duration": 985
+                                        },
+                                        {
+                                            "duration": 985
+                                        },
+                                        {
+                                            "duration": 985
+                                        },
+                                        {
+                                            "duration": 985
+                                        },
+                                        {
+                                            "duration": 985
+                                        },
+                                        {
+                                            "duration": 985
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Hybrid Connectivity Options - PART1",
+                                "url": "bba54d58-4e4b-dbba-e8b2-1e130724fb60",
+                                "sequence": 1,
+                                "componentIdentifier": "bba54d58-4e4b-dbba-e8b2-1e130724fb60",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 491,
+                                    "videosources": [
+                                        {
+                                            "duration": 491
+                                        },
+                                        {
+                                            "duration": 491
+                                        },
+                                        {
+                                            "duration": 491
+                                        },
+                                        {
+                                            "duration": 491
+                                        },
+                                        {
+                                            "duration": 491
+                                        },
+                                        {
+                                            "duration": 491
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Hybrid Connectivity Options - PART2",
+                                "url": "17b2d151-ea32-a49c-0ea2-667a3e48dcf0",
+                                "sequence": 2,
+                                "componentIdentifier": "17b2d151-ea32-a49c-0ea2-667a3e48dcf0",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 377,
+                                    "videosources": [
+                                        {
+                                            "duration": 377
+                                        },
+                                        {
+                                            "duration": 377
+                                        },
+                                        {
+                                            "duration": 377
+                                        },
+                                        {
+                                            "duration": 377
+                                        },
+                                        {
+                                            "duration": 377
+                                        },
+                                        {
+                                            "duration": 377
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Static Hardware VPN - PART 1",
+                                "url": "0a4e6c66-4b66-3f47-05b9-d3655f7feb58",
+                                "sequence": 3,
+                                "componentIdentifier": "0a4e6c66-4b66-3f47-05b9-d3655f7feb58",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 442,
+                                    "videosources": [
+                                        {
+                                            "duration": 442
+                                        },
+                                        {
+                                            "duration": 442
+                                        },
+                                        {
+                                            "duration": 442
+                                        },
+                                        {
+                                            "duration": 442
+                                        },
+                                        {
+                                            "duration": 442
+                                        },
+                                        {
+                                            "duration": 442
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Static Hardware VPN - PART 2",
+                                "url": "f6ba53e5-5e94-f68e-e230-245bb6fbe0a4",
+                                "sequence": 4,
+                                "componentIdentifier": "f6ba53e5-5e94-f68e-e230-245bb6fbe0a4",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 361,
+                                    "videosources": [
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        },
+                                        {
+                                            "duration": 361
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Static Hardware VPN - PART 3",
+                                "url": "1754bd1b-dc30-786b-7988-7f21c72718ed",
+                                "sequence": 5,
+                                "componentIdentifier": "1754bd1b-dc30-786b-7988-7f21c72718ed",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 405,
+                                    "videosources": [
+                                        {
+                                            "duration": 405
+                                        },
+                                        {
+                                            "duration": 405
+                                        },
+                                        {
+                                            "duration": 405
+                                        },
+                                        {
+                                            "duration": 405
+                                        },
+                                        {
+                                            "duration": 405
+                                        },
+                                        {
+                                            "duration": 405
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Dynamic Hardware VPN - PART 1",
+                                "url": "10058554-b5f6-26cd-5619-c7db87b30b4f",
+                                "sequence": 6,
+                                "componentIdentifier": "10058554-b5f6-26cd-5619-c7db87b30b4f",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 322,
+                                    "videosources": [
+                                        {
+                                            "duration": 322
+                                        },
+                                        {
+                                            "duration": 322
+                                        },
+                                        {
+                                            "duration": 322
+                                        },
+                                        {
+                                            "duration": 322
+                                        },
+                                        {
+                                            "duration": 322
+                                        },
+                                        {
+                                            "duration": 322
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Dynamic Hardware VPN - PART 2",
+                                "url": "4538f26b-203b-1bdf-ec38-91546257a29a",
+                                "sequence": 7,
+                                "componentIdentifier": "4538f26b-203b-1bdf-ec38-91546257a29a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 343,
+                                    "videosources": [
+                                        {
+                                            "duration": 343
+                                        },
+                                        {
+                                            "duration": 343
+                                        },
+                                        {
+                                            "duration": 343
+                                        },
+                                        {
+                                            "duration": 343
+                                        },
+                                        {
+                                            "duration": 343
+                                        },
+                                        {
+                                            "duration": 343
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Dynamic Hardware VPN - PART 3",
+                                "url": "9fe3252a-ba57-d7c1-0e88-773663b66a4c",
+                                "sequence": 8,
+                                "componentIdentifier": "9fe3252a-ba57-d7c1-0e88-773663b66a4c",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 610,
+                                    "videosources": [
+                                        {
+                                            "duration": 610
+                                        },
+                                        {
+                                            "duration": 610
+                                        },
+                                        {
+                                            "duration": 610
+                                        },
+                                        {
+                                            "duration": 610
+                                        },
+                                        {
+                                            "duration": 610
+                                        },
+                                        {
+                                            "duration": 610
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudHub Architecture - PART 1",
+                                "url": "ef3abe49-ec1f-cb69-db17-3749aa76a99f",
+                                "sequence": 9,
+                                "componentIdentifier": "ef3abe49-ec1f-cb69-db17-3749aa76a99f",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 313,
+                                    "videosources": [
+                                        {
+                                            "duration": 313
+                                        },
+                                        {
+                                            "duration": 313
+                                        },
+                                        {
+                                            "duration": 313
+                                        },
+                                        {
+                                            "duration": 313
+                                        },
+                                        {
+                                            "duration": 313
+                                        },
+                                        {
+                                            "duration": 313
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudHub Architecture - PART 2",
+                                "url": "80fc9c30-768e-fef0-38a4-84fe235559d8",
+                                "sequence": 10,
+                                "componentIdentifier": "80fc9c30-768e-fef0-38a4-84fe235559d8",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 451,
+                                    "videosources": [
+                                        {
+                                            "duration": 451
+                                        },
+                                        {
+                                            "duration": 451
+                                        },
+                                        {
+                                            "duration": 451
+                                        },
+                                        {
+                                            "duration": 451
+                                        },
+                                        {
+                                            "duration": 451
+                                        },
+                                        {
+                                            "duration": 451
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Direct Connect - Physical Architecture & Installation Process (Direct)",
+                                "url": "497a8e21-425b-de18-496a-bae354c35b83",
+                                "sequence": 11,
+                                "componentIdentifier": "497a8e21-425b-de18-496a-bae354c35b83",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 966,
+                                    "videosources": [
+                                        {
+                                            "duration": 966
+                                        },
+                                        {
+                                            "duration": 966
+                                        },
+                                        {
+                                            "duration": 966
+                                        },
+                                        {
+                                            "duration": 966
+                                        },
+                                        {
+                                            "duration": 966
+                                        },
+                                        {
+                                            "duration": 966
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Direct Connect - Sub 1Gbps - Physical Architecture & Installation Process (Partner)",
+                                "url": "22ffbb2d-fa6e-da64-697b-910fe2175dc2",
+                                "sequence": 12,
+                                "componentIdentifier": "22ffbb2d-fa6e-da64-697b-910fe2175dc2",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 525,
+                                    "videosources": [
+                                        {
+                                            "duration": 525
+                                        },
+                                        {
+                                            "duration": 525
+                                        },
+                                        {
+                                            "duration": 525
+                                        },
+                                        {
+                                            "duration": 525
+                                        },
+                                        {
+                                            "duration": 525
+                                        },
+                                        {
+                                            "duration": 525
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Direct Connect (DX) Private VIFs",
+                                "url": "1d298b57-187b-ceb4-f2bc-1bd038fd21a1",
+                                "sequence": 13,
+                                "componentIdentifier": "1d298b57-187b-ceb4-f2bc-1bd038fd21a1",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 505,
+                                    "videosources": [
+                                        {
+                                            "duration": 505
+                                        },
+                                        {
+                                            "duration": 505
+                                        },
+                                        {
+                                            "duration": 505
+                                        },
+                                        {
+                                            "duration": 505
+                                        },
+                                        {
+                                            "duration": 505
+                                        },
+                                        {
+                                            "duration": 505
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Direct Connect (DX) Public VIFs",
+                                "url": "a75651bc-0dfc-6f6f-8a45-3aecd916c523",
+                                "sequence": 14,
+                                "componentIdentifier": "a75651bc-0dfc-6f6f-8a45-3aecd916c523",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 708,
+                                    "videosources": [
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        },
+                                        {
+                                            "duration": 708
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Securing a Direct Connect - VPN over Public VIF",
+                                "url": "b01f750c-7818-b178-4ff5-52be4e5c7c32",
+                                "sequence": 15,
+                                "componentIdentifier": "b01f750c-7818-b178-4ff5-52be4e5c7c32",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 340,
+                                    "videosources": [
+                                        {
+                                            "duration": 340
+                                        },
+                                        {
+                                            "duration": 340
+                                        },
+                                        {
+                                            "duration": 340
+                                        },
+                                        {
+                                            "duration": 340
+                                        },
+                                        {
+                                            "duration": 340
+                                        },
+                                        {
+                                            "duration": 340
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Extreme Hybrid Network Redundancy & Resilience",
+                                "url": "fb0d3974-0c3e-b9eb-61dd-7225959925f2",
+                                "sequence": 16,
+                                "componentIdentifier": "fb0d3974-0c3e-b9eb-61dd-7225959925f2",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 565,
+                                    "videosources": [
+                                        {
+                                            "duration": 565
+                                        },
+                                        {
+                                            "duration": 565
+                                        },
+                                        {
+                                            "duration": 565
+                                        },
+                                        {
+                                            "duration": 565
+                                        },
+                                        {
+                                            "duration": 565
+                                        },
+                                        {
+                                            "duration": 565
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Direct Connect Billing",
+                                "url": "b241b528-b299-7d29-a598-41994448a975",
+                                "sequence": 17,
+                                "componentIdentifier": "b241b528-b299-7d29-a598-41994448a975",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 579,
+                                    "videosources": [
+                                        {
+                                            "duration": 579
+                                        },
+                                        {
+                                            "duration": 579
+                                        },
+                                        {
+                                            "duration": 579
+                                        },
+                                        {
+                                            "duration": 579
+                                        },
+                                        {
+                                            "duration": 579
+                                        },
+                                        {
+                                            "duration": 579
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "QinQ - VLAN Stacking - PART 1",
+                                "url": "d3910b94-5a9c-02a2-a509-107d295d610b",
+                                "sequence": 18,
+                                "componentIdentifier": "d3910b94-5a9c-02a2-a509-107d295d610b",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 748,
+                                    "videosources": [
+                                        {
+                                            "duration": 748
+                                        },
+                                        {
+                                            "duration": 748
+                                        },
+                                        {
+                                            "duration": 748
+                                        },
+                                        {
+                                            "duration": 748
+                                        },
+                                        {
+                                            "duration": 748
+                                        },
+                                        {
+                                            "duration": 748
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "QinQ - VLAN Stacking - PART 2",
+                                "url": "c309650e-6425-6a97-dab9-4d3c043a8912",
+                                "sequence": 19,
+                                "componentIdentifier": "c309650e-6425-6a97-dab9-4d3c043a8912",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 627,
+                                    "videosources": [
+                                        {
+                                            "duration": 627
+                                        },
+                                        {
+                                            "duration": 627
+                                        },
+                                        {
+                                            "duration": 627
+                                        },
+                                        {
+                                            "duration": 627
+                                        },
+                                        {
+                                            "duration": 627
+                                        },
+                                        {
+                                            "duration": 627
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Configure Network Integration With Application Services",
+                        "url": "7fafe109-d3d7-31fa-bf51-26c0ec37987f",
+                        "sequence": 4,
+                        "sectionIdentifier": "7fafe109-d3d7-31fa-bf51-26c0ec37987f",
+                        "components": [
+                            {
+                                "title": "Route 53 - Routing Policies - PART 1",
+                                "url": "e21d67f1-20e3-c62c-0597-a56f6076d885",
+                                "sequence": 0,
+                                "componentIdentifier": "e21d67f1-20e3-c62c-0597-a56f6076d885",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 596,
+                                    "videosources": [
+                                        {
+                                            "duration": 596
+                                        },
+                                        {
+                                            "duration": 596
+                                        },
+                                        {
+                                            "duration": 596
+                                        },
+                                        {
+                                            "duration": 596
+                                        },
+                                        {
+                                            "duration": 596
+                                        },
+                                        {
+                                            "duration": 596
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Route 53 - Routing Policies - PART 2",
+                                "url": "643709cc-ad6c-5fec-7d0d-0d1d9bbb1cea",
+                                "sequence": 1,
+                                "componentIdentifier": "643709cc-ad6c-5fec-7d0d-0d1d9bbb1cea",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 478,
+                                    "videosources": [
+                                        {
+                                            "duration": 478
+                                        },
+                                        {
+                                            "duration": 478
+                                        },
+                                        {
+                                            "duration": 478
+                                        },
+                                        {
+                                            "duration": 478
+                                        },
+                                        {
+                                            "duration": 478
+                                        },
+                                        {
+                                            "duration": 478
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "R53 Routing & Resolution Trees - PART 1",
+                                "url": "a20ed094-7745-061e-5d5b-c8240d0a43f8",
+                                "sequence": 2,
+                                "componentIdentifier": "a20ed094-7745-061e-5d5b-c8240d0a43f8",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 447,
+                                    "videosources": [
+                                        {
+                                            "duration": 447
+                                        },
+                                        {
+                                            "duration": 447
+                                        },
+                                        {
+                                            "duration": 447
+                                        },
+                                        {
+                                            "duration": 447
+                                        },
+                                        {
+                                            "duration": 447
+                                        },
+                                        {
+                                            "duration": 447
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "R53 Routing & Resolution Trees - PART 2",
+                                "url": "e2249ab4-3067-c623-afa1-c44bb94cd82b",
+                                "sequence": 3,
+                                "componentIdentifier": "e2249ab4-3067-c623-afa1-c44bb94cd82b",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 390,
+                                    "videosources": [
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        },
+                                        {
+                                            "duration": 390
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Private DNS Zones",
+                                "url": "380b441d-dd83-a8d2-7871-30f9dc376456",
+                                "sequence": 4,
+                                "componentIdentifier": "380b441d-dd83-a8d2-7871-30f9dc376456",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 427,
+                                    "videosources": [
+                                        {
+                                            "duration": 427
+                                        },
+                                        {
+                                            "duration": 427
+                                        },
+                                        {
+                                            "duration": 427
+                                        },
+                                        {
+                                            "duration": 427
+                                        },
+                                        {
+                                            "duration": 427
+                                        },
+                                        {
+                                            "duration": 427
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Hybrid DNS Architectures",
+                                "url": "b6018e14-ef33-ebc5-97b1-56e24839467a",
+                                "sequence": 5,
+                                "componentIdentifier": "b6018e14-ef33-ebc5-97b1-56e24839467a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1008,
+                                    "videosources": [
+                                        {
+                                            "duration": 1008
+                                        },
+                                        {
+                                            "duration": 1008
+                                        },
+                                        {
+                                            "duration": 1008
+                                        },
+                                        {
+                                            "duration": 1008
+                                        },
+                                        {
+                                            "duration": 1008
+                                        },
+                                        {
+                                            "duration": 1008
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC DHCP",
+                                "url": "e58f8e77-537b-5832-bc3b-a5ecb1e63ff6",
+                                "sequence": 6,
+                                "componentIdentifier": "e58f8e77-537b-5832-bc3b-a5ecb1e63ff6",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 769,
+                                    "videosources": [
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        },
+                                        {
+                                            "duration": 769
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Classic Load Balancing - Deep Dive - PART 1",
+                                "url": "dbd9aa3a-9e2d-2a6b-ebe5-49fcac012fbf",
+                                "sequence": 7,
+                                "componentIdentifier": "dbd9aa3a-9e2d-2a6b-ebe5-49fcac012fbf",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1061,
+                                    "videosources": [
+                                        {
+                                            "duration": 1061
+                                        },
+                                        {
+                                            "duration": 1061
+                                        },
+                                        {
+                                            "duration": 1061
+                                        },
+                                        {
+                                            "duration": 1061
+                                        },
+                                        {
+                                            "duration": 1061
+                                        },
+                                        {
+                                            "duration": 1061
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Classic Load Balancing - Deep Dive - PART 2",
+                                "url": "a7414331-6c46-443e-d575-1384fabfe0f4",
+                                "sequence": 8,
+                                "componentIdentifier": "a7414331-6c46-443e-d575-1384fabfe0f4",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 850,
+                                    "videosources": [
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        },
+                                        {
+                                            "duration": 850
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Classic Load Balancing - Deep Dive - PART 3",
+                                "url": "804e41df-7448-e6b3-8e4c-09f028736949",
+                                "sequence": 9,
+                                "componentIdentifier": "804e41df-7448-e6b3-8e4c-09f028736949",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 725,
+                                    "videosources": [
+                                        {
+                                            "duration": 725
+                                        },
+                                        {
+                                            "duration": 725
+                                        },
+                                        {
+                                            "duration": 725
+                                        },
+                                        {
+                                            "duration": 725
+                                        },
+                                        {
+                                            "duration": 725
+                                        },
+                                        {
+                                            "duration": 725
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Classic Load Balancing - Deep Dive - PART 4",
+                                "url": "80010305-4531-3c38-4437-3d344ae3a856",
+                                "sequence": 10,
+                                "componentIdentifier": "80010305-4531-3c38-4437-3d344ae3a856",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 558,
+                                    "videosources": [
+                                        {
+                                            "duration": 558
+                                        },
+                                        {
+                                            "duration": 558
+                                        },
+                                        {
+                                            "duration": 558
+                                        },
+                                        {
+                                            "duration": 558
+                                        },
+                                        {
+                                            "duration": 558
+                                        },
+                                        {
+                                            "duration": 558
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 Content Delivery & Storage - PART 1",
+                                "url": "d8c1395c-9928-5d54-e22f-d2c84c44a632",
+                                "sequence": 11,
+                                "componentIdentifier": "d8c1395c-9928-5d54-e22f-d2c84c44a632",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 929,
+                                    "videosources": [
+                                        {
+                                            "duration": 929
+                                        },
+                                        {
+                                            "duration": 929
+                                        },
+                                        {
+                                            "duration": 929
+                                        },
+                                        {
+                                            "duration": 929
+                                        },
+                                        {
+                                            "duration": 929
+                                        },
+                                        {
+                                            "duration": 929
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "S3 Content Delivery & Storage - PART 2",
+                                "url": "e308a64b-ee9b-5577-31ae-81576758a2e3",
+                                "sequence": 12,
+                                "componentIdentifier": "e308a64b-ee9b-5577-31ae-81576758a2e3",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1054,
+                                    "videosources": [
+                                        {
+                                            "duration": 1054
+                                        },
+                                        {
+                                            "duration": 1054
+                                        },
+                                        {
+                                            "duration": 1054
+                                        },
+                                        {
+                                            "duration": 1054
+                                        },
+                                        {
+                                            "duration": 1054
+                                        },
+                                        {
+                                            "duration": 1054
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudFront Local and Global Content Delivery - PART 1",
+                                "url": "f5f3f3ec-c086-2daa-ec28-1c02a929ffc7",
+                                "sequence": 13,
+                                "componentIdentifier": "f5f3f3ec-c086-2daa-ec28-1c02a929ffc7",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 468,
+                                    "videosources": [
+                                        {
+                                            "duration": 468
+                                        },
+                                        {
+                                            "duration": 468
+                                        },
+                                        {
+                                            "duration": 468
+                                        },
+                                        {
+                                            "duration": 468
+                                        },
+                                        {
+                                            "duration": 468
+                                        },
+                                        {
+                                            "duration": 468
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "CloudFront Local and Global Content Delivery - PART 2",
+                                "url": "669aed0a-9e79-f0bf-0bc5-c84466173805",
+                                "sequence": 14,
+                                "componentIdentifier": "669aed0a-9e79-f0bf-0bc5-c84466173805",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 938,
+                                    "videosources": [
+                                        {
+                                            "duration": 938
+                                        },
+                                        {
+                                            "duration": 938
+                                        },
+                                        {
+                                            "duration": 938
+                                        },
+                                        {
+                                            "duration": 938
+                                        },
+                                        {
+                                            "duration": 938
+                                        },
+                                        {
+                                            "duration": 938
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Local and Global Resilience Strategies using AWS Products",
+                                "url": "5b934906-349c-d270-1ff5-8bde0530350d",
+                                "sequence": 15,
+                                "componentIdentifier": "5b934906-349c-d270-1ff5-8bde0530350d",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 946,
+                                    "videosources": [
+                                        {
+                                            "duration": 946
+                                        },
+                                        {
+                                            "duration": 946
+                                        },
+                                        {
+                                            "duration": 946
+                                        },
+                                        {
+                                            "duration": 946
+                                        },
+                                        {
+                                            "duration": 946
+                                        },
+                                        {
+                                            "duration": 946
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "AWS Workspaces",
+                                "url": "67764e66-5acd-8056-2f24-ce8a6b8d5fce",
+                                "sequence": 16,
+                                "componentIdentifier": "67764e66-5acd-8056-2f24-ce8a6b8d5fce",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 1120,
+                                    "videosources": [
+                                        {
+                                            "duration": 1120
+                                        },
+                                        {
+                                            "duration": 1120
+                                        },
+                                        {
+                                            "duration": 1120
+                                        },
+                                        {
+                                            "duration": 1120
+                                        },
+                                        {
+                                            "duration": 1120
+                                        },
+                                        {
+                                            "duration": 1120
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Manage Optimise And Troubleshoot the Network",
+                        "url": "bc678e78-e93f-a474-7554-90af95a35fc2",
+                        "sequence": 5,
+                        "sectionIdentifier": "bc678e78-e93f-a474-7554-90af95a35fc2",
+                        "components": [
+                            {
+                                "title": "VPC Flow Logs - PART 1",
+                                "url": "4e2a0fb3-4462-fee3-a3b6-a6b4ea90ff3d",
+                                "sequence": 0,
+                                "componentIdentifier": "4e2a0fb3-4462-fee3-a3b6-a6b4ea90ff3d",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 876,
+                                    "videosources": [
+                                        {
+                                            "duration": 876
+                                        },
+                                        {
+                                            "duration": 876
+                                        },
+                                        {
+                                            "duration": 876
+                                        },
+                                        {
+                                            "duration": 876
+                                        },
+                                        {
+                                            "duration": 876
+                                        },
+                                        {
+                                            "duration": 876
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "VPC Flow Logs - PART 2",
+                                "url": "88c7ec2a-8497-1f57-3221-d73c1137826a",
+                                "sequence": 1,
+                                "componentIdentifier": "88c7ec2a-8497-1f57-3221-d73c1137826a",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 457,
+                                    "videosources": [
+                                        {
+                                            "duration": 457
+                                        },
+                                        {
+                                            "duration": 457
+                                        },
+                                        {
+                                            "duration": 457
+                                        },
+                                        {
+                                            "duration": 457
+                                        },
+                                        {
+                                            "duration": 457
+                                        },
+                                        {
+                                            "duration": 457
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Network Cost Management and Optimization Deep Dive",
+                                "url": "eb5bd09e-bc59-933c-3855-ff969efe36c9",
+                                "sequence": 2,
+                                "componentIdentifier": "eb5bd09e-bc59-933c-3855-ff969efe36c9",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 367,
+                                    "videosources": [
+                                        {
+                                            "duration": 367
+                                        },
+                                        {
+                                            "duration": 367
+                                        },
+                                        {
+                                            "duration": 367
+                                        },
+                                        {
+                                            "duration": 367
+                                        },
+                                        {
+                                            "duration": 367
+                                        },
+                                        {
+                                            "duration": 367
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Enhanced Networking",
+                                "url": "da0c593a-ea88-bd4e-150c-84e1f626b7f3",
+                                "sequence": 3,
+                                "componentIdentifier": "da0c593a-ea88-bd4e-150c-84e1f626b7f3",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 694,
+                                    "videosources": [
+                                        {
+                                            "duration": 694
+                                        },
+                                        {
+                                            "duration": 694
+                                        },
+                                        {
+                                            "duration": 694
+                                        },
+                                        {
+                                            "duration": 694
+                                        },
+                                        {
+                                            "duration": 694
+                                        },
+                                        {
+                                            "duration": 694
+                                        }
+                                    ]
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "Optimising Network Performance - Placement Groups",
+                                "url": "0f1e8052-49f9-3844-bb60-810ed77ca972",
+                                "sequence": 4,
+                                "componentIdentifier": "0f1e8052-49f9-3844-bb60-810ed77ca972",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 964,
+                                    "videosources": [
+                                        {
+                                            "duration": 964
+                                        },
+                                        {
+                                            "duration": 964
+                                        },
+                                        {
+                                            "duration": 964
+                                        },
+                                        {
+                                            "duration": 964
+                                        },
+                                        {
+                                            "duration": 964
+                                        },
+                                        {
+                                            "duration": 964
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "AWS - Placement Group documentation",
+                                        "url": "http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Thank You, Good Luck & Coming Soon",
+                        "url": "db378af5-0bad-49ea-9221-ea0aee4b4037",
+                        "sequence": 6,
+                        "sectionIdentifier": "db378af5-0bad-49ea-9221-ea0aee4b4037",
+                        "components": [
+                            {
+                                "title": "Final Practice Exam",
+                                "url": "c2358785-4b6e-4b6d-8d34-b3357ba3c77c",
+                                "sequence": 0,
+                                "componentIdentifier": "c2358785-4b6e-4b6d-8d34-b3357ba3c77c",
+                                "enhancedSyllabus": null,
+                                "description": "",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "quiz",
+                                    "quizName": "finalPracticeExam"
+                                },
+                                "notes": []
+                            },
+                            {
+                                "title": "The Exam",
+                                "url": "58741ab9-d78f-40c6-d861-5fcc52cfb943",
+                                "sequence": 1,
+                                "componentIdentifier": "58741ab9-d78f-40c6-d861-5fcc52cfb943",
+                                "enhancedSyllabus": null,
+                                "description": "New Lecture Description",
+                                "metadata": {
+                                    "createdDate": null,
+                                    "updatedDate": null,
+                                    "notifyUpdatedDate": null
+                                },
+                                "content": {
+                                    "type": "video",
+                                    "duration": 43,
+                                    "videosources": [
+                                        {
+                                            "duration": 43
+                                        },
+                                        {
+                                            "duration": 43
+                                        },
+                                        {
+                                            "duration": 43
+                                        },
+                                        {
+                                            "duration": 43
+                                        },
+                                        {
+                                            "duration": 43
+                                        },
+                                        {
+                                            "duration": 43
+                                        }
+                                    ]
+                                },
+                                "notes": [
+                                    {
+                                        "title": "ExamBlog",
+                                        "url": "https://read.acloud.guru/passing-the-aws-certified-advanced-networking-specialty-exam-bf06375b4bfc",
+                                        "bucket": null,
+                                        "key": null
+                                    },
+                                    {
+                                        "title": "Looking for something different? Come work with us.",
+                                        "url": "https://acloud.guru/careers",
+                                        "bucket": null,
+                                        "key": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

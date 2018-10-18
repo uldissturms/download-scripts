@@ -9,7 +9,8 @@ path='./{}/videos.txt'.format(course)
 
 with open(path) as fp:
     for cnt, line in enumerate(fp):
-        filename = urlparse(line).path.split('/')[-1]
+        parts = urlparse(line).path.split('/')
+        filename = parts[-1] if 'v2' in parts else parts[-3].split('_')[1]
         out = './{}/{}'.format(course, filename)
         if isfile(out):
             print('Already present:', out)
