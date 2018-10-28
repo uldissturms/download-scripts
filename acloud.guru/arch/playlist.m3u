@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:0,Welcome Verizon!.mp4
+Welcome%20Verizon!.mp4
+#EXTINF:0,Introduction & Overview.mp4
+Introduction%20%26%20Overview.mp4
+#EXTINF:0,What You'll Need Getting Started.mp4
+What%20You'll%20Need%20Getting%20Started.mp4
+#EXTINF:0,Exam Blue Print.mp4
+Exam%20Blue%20Print.mp4
+#EXTINF:0,Verizon Intro To White Papers.mp4
+Verizon%20Intro%20To%20White%20Papers.mp4
+#EXTINF:0,The History So Far.mp4
+The%20History%20So%20Far.mp4
+#EXTINF:0,10,000 Foot Overview - Part 1.mp4
+10%2C000%20Foot%20Overview%20-%20Part%201.mp4
+#EXTINF:0,10,000 Foot Overview - Part 2.mp4
+10%2C000%20Foot%20Overview%20-%20Part%202.mp4
+#EXTINF:0,10,000 Foot Overview - Part 3.mp4
+10%2C000%20Foot%20Overview%20-%20Part%203.mp4
+#EXTINF:0,10,000 Foot Overview - Part 4.mp4
+10%2C000%20Foot%20Overview%20-%20Part%204.mp4
+#EXTINF:0,Don't Freak Out!.mp4
+Don't%20Freak%20Out!.mp4
+#EXTINF:0,AWS This Week.mp4
+AWS%20This%20Week.mp4
+#EXTINF:0,Setting Up A Free Tier Account.mp4
+Setting%20Up%20A%20Free%20Tier%20Account.mp4
+#EXTINF:0,Overview of Amazon Web Services.mp4
+Overview%20of%20Amazon%20Web%20Services.mp4
+#EXTINF:0,10,000 Foot Quiz.mp4
+10%2C000%20Foot%20Quiz.mp4
+#EXTINF:0,IAM 101.mp4
+IAM%20101.mp4
+#EXTINF:0,IAM Lab.mp4
+IAM%20Lab.mp4
+#EXTINF:0,Create A Billing Alarm - Lab.mp4
+Create%20A%20Billing%20Alarm%20-%20Lab.mp4
+#EXTINF:0,Maker Labs.mp4
+Maker%20Labs.mp4
+#EXTINF:0,IAM Summary.mp4
+IAM%20Summary.mp4
+#EXTINF:0,Intro to IAM.mp4
+Intro%20to%20IAM.mp4
+#EXTINF:0,IAM Quiz.mp4
+IAM%20Quiz.mp4
+#EXTINF:0,S3 101.mp4
+S3%20101.mp4
+#EXTINF:0,Lab: Create an S3 Bucket.mp4
+Lab%3A%20Create%20an%20S3%20Bucket.mp4
+#EXTINF:0,Lab: S3 Version Control.mp4
+Lab%3A%20S3%20Version%20Control.mp4
+#EXTINF:0,Cross Region Replication.mp4
+Cross%20Region%20Replication.mp4
+#EXTINF:0,Lab: S3 Life Cycle Management & Glacier.mp4
+Lab%3A%20S3%20Life%20Cycle%20Management%20%26%20Glacier.mp4
+#EXTINF:0,CloudFront CDN Overview.mp4
+CloudFront%20CDN%20Overview.mp4
+#EXTINF:0,Create a CloudFront CDN.mp4
+Create%20a%20CloudFront%20CDN.mp4
+#EXTINF:0,S3 Security and Encryption.mp4
+S3%20Security%20and%20Encryption.mp4
+#EXTINF:0,Storage Gateway.mp4
+Storage%20Gateway.mp4
+#EXTINF:0,Snowball.mp4
+Snowball.mp4
+#EXTINF:0,Snowball Lab.mp4
+Snowball%20Lab.mp4
+#EXTINF:0,S3 Transfer Acceleration.mp4
+S3%20Transfer%20Acceleration.mp4
+#EXTINF:0,Create A Static Website Using S3.mp4
+Create%20A%20Static%20Website%20Using%20S3.mp4
+#EXTINF:0,Release Reviews.mp4
+Release%20Reviews.mp4
+#EXTINF:0,Summary.mp4
+Summary.mp4
+#EXTINF:0,Caching Static Files with Amazon CloudFront.mp4
+Caching%20Static%20Files%20with%20Amazon%20CloudFront.mp4
+#EXTINF:0,Hosting Wordpress using Amazon S3.mp4
+Hosting%20Wordpress%20using%20Amazon%20S3.mp4
+#EXTINF:0,AWS Storage Services Overview.mp4
+AWS%20Storage%20Services%20Overview.mp4
+#EXTINF:0,AWS Security Best Practices.mp4
+AWS%20Security%20Best%20Practices.mp4
+#EXTINF:0,S3 Quiz.mp4
+S3%20Quiz.mp4
+#EXTINF:0,EC2 101.mp4
+EC2%20101.mp4
+#EXTINF:0,Let's Get Our Hands Dirty! Launch an EC2 Instance - Part 1.mp4
+Let's%20Get%20Our%20Hands%20Dirty!%20Launch%20an%20EC2%20Instance%20-%20Part%201.mp4
+#EXTINF:0,Let's Get Our Hands Dirty! Launch an EC2 instance - Part 2.mp4
+Let's%20Get%20Our%20Hands%20Dirty!%20Launch%20an%20EC2%20instance%20-%20Part%202.mp4
+#EXTINF:0,How to use Putty (Windows Users Only).mp4
+How%20to%20use%20Putty%20(Windows%20Users%20Only).mp4
+#EXTINF:0,Security Groups Basics.mp4
+Security%20Groups%20Basics.mp4
+#EXTINF:0,Upgrading EBS Volume Types - Lab.mp4
+Upgrading%20EBS%20Volume%20Types%20-%20Lab.mp4
+#EXTINF:0,Encrypt Root Device Volume and Create an AMI - Lab.mp4
+Encrypt%20Root%20Device%20Volume%20and%20Create%20an%20AMI%20-%20Lab.mp4
+#EXTINF:0,AMIs - EBS Root Device Volumes vs Instance Store.mp4
+AMIs%20-%20EBS%20Root%20Device%20Volumes%20vs%20Instance%20Store.mp4
+#EXTINF:0,Load Balancer Theory.mp4
+Load%20Balancer%20Theory.mp4
+#EXTINF:0,Load Balancers and Health Checks.mp4
+Load%20Balancers%20and%20Health%20Checks.mp4
+#EXTINF:0,Cloud Watch EC2.mp4
+Cloud%20Watch%20EC2.mp4
+#EXTINF:0,The AWS Command Line and EC2.mp4
+The%20AWS%20Command%20Line%20and%20EC2.mp4
+#EXTINF:0,Using IAM Roles with EC2.mp4
+Using%20IAM%20Roles%20with%20EC2.mp4
+#EXTINF:0,S3 CLI & Regions.mp4
+S3%20CLI%20%26%20Regions.mp4
+#EXTINF:0,Using Bootstrap Scripts.mp4
+Using%20Bootstrap%20Scripts.mp4
+#EXTINF:0,EC2 Instance Metadata.mp4
+EC2%20Instance%20Metadata.mp4
+#EXTINF:0,Autoscaling Groups Lab.mp4
+Autoscaling%20Groups%20Lab.mp4
+#EXTINF:0,EC2 Placement Groups.mp4
+EC2%20Placement%20Groups.mp4
+#EXTINF:0,Elastic File System Lab.mp4
+Elastic%20File%20System%20Lab.mp4
+#EXTINF:0,Lambda - Concepts.mp4
+Lambda%20-%20Concepts.mp4
+#EXTINF:0,Build A Serverless Webpage.mp4
+Build%20A%20Serverless%20Webpage.mp4
+#EXTINF:0,Serverless Courses on ACG.mp4
+Serverless%20Courses%20on%20ACG.mp4
+#EXTINF:0,Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 1.mp4
+Using%20Polly%20To%20Help%20You%20Pass%20Your%20Exam%20-%20A%20Serverless%20Approach%20-%20Part%201.mp4
+#EXTINF:0,Using Polly To Help You Pass Your Exam - A Serverless Approach - Part 2.mp4
+Using%20Polly%20To%20Help%20You%20Pass%20Your%20Exam%20-%20A%20Serverless%20Approach%20-%20Part%202.mp4
+#EXTINF:0,Build An Alexa Skill.mp4
+Build%20An%20Alexa%20Skill.mp4
+#EXTINF:0,Guru Of The Week.mp4
+Guru%20Of%20The%20Week.mp4
+#EXTINF:0,EC2 Summary.mp4
+EC2%20Summary.mp4
+#EXTINF:0,Creating Amazon EC2 Instances (Linux).mp4
+Creating%20Amazon%20EC2%20Instances%20(Linux).mp4
+#EXTINF:0,Working with Amazon Elastic Block Store (EBS).mp4
+Working%20with%20Amazon%20Elastic%20Block%20Store%20(EBS).mp4
+#EXTINF:0,Working with Elastic Load Balancing.mp4
+Working%20with%20Elastic%20Load%20Balancing.mp4
+#EXTINF:0,Maintaining High Availability with Auto Scaling.mp4
+Maintaining%20High%20Availability%20with%20Auto%20Scaling.mp4
+#EXTINF:0,Architecting for the Cloud.mp4
+Architecting%20for%20the%20Cloud.mp4
+#EXTINF:0,EC2 Quiz.mp4
+EC2%20Quiz.mp4
+#EXTINF:0,DNS 101.mp4
+DNS%20101.mp4
+#EXTINF:0,Route 53 Register A Domain Name Lab.mp4
+Route%2053%20Register%20A%20Domain%20Name%20Lab.mp4
+#EXTINF:0,Routing Types Of DNS Available With Route53.mp4
+Routing%20Types%20Of%20DNS%20Available%20With%20Route53.mp4
+#EXTINF:0,Simple Routing Policy Lab.mp4
+Simple%20Routing%20Policy%20Lab.mp4
+#EXTINF:0,Weighted Routing Policy Lab.mp4
+Weighted%20Routing%20Policy%20Lab.mp4
+#EXTINF:0,Latency Routing Policy Lab.mp4
+Latency%20Routing%20Policy%20Lab.mp4
+#EXTINF:0,Failover Routing Policy Lab.mp4
+Failover%20Routing%20Policy%20Lab.mp4
+#EXTINF:0,Geolocation Routing Policy Lab.mp4
+Geolocation%20Routing%20Policy%20Lab.mp4
+#EXTINF:0,Multivalue Answer Routing.mp4
+Multivalue%20Answer%20Routing.mp4
+#EXTINF:0,DNS Exam Tips.mp4
+DNS%20Exam%20Tips.mp4
+#EXTINF:0,Working with Amazon Route 53 Traffic Flow.mp4
+Working%20with%20Amazon%20Route%2053%20Traffic%20Flow.mp4
+#EXTINF:0,Route53 Quiz.mp4
+Route53%20Quiz.mp4
+#EXTINF:0,Databases 101.mp4
+Databases%20101.mp4
+#EXTINF:0,Lab: Create our first RDS Instance.mp4
+Lab%3A%20Create%20our%20first%20RDS%20Instance.mp4
+#EXTINF:0,RDS - Back Ups, Multi-AZ & Read Replicas.mp4
+RDS%20-%20Back%20Ups%2C%20Multi-AZ%20%26%20Read%20Replicas.mp4
+#EXTINF:0,DynamoDB.mp4
+DynamoDB.mp4
+#EXTINF:0,RedShift.mp4
+RedShift.mp4
+#EXTINF:0,Elasticache.mp4
+Elasticache.mp4
+#EXTINF:0,Aurora.mp4
+Aurora.mp4
+#EXTINF:0,Databases Summary.mp4
+Databases%20Summary.mp4
+#EXTINF:0,Introduction to Amazon Relational Database Service (RDS) (Linux).mp4
+Introduction%20to%20Amazon%20Relational%20Database%20Service%20(RDS)%20(Linux).mp4
+#EXTINF:0,Databases Quiz.mp4
+Databases%20Quiz.mp4
+#EXTINF:0,Introduction and Overview.mp4
+Introduction%20and%20Overview.mp4
+#EXTINF:0,Build Your Own Custom VPC.mp4
+Build%20Your%20Own%20Custom%20VPC.mp4
+#EXTINF:0,Build A Custom VPC - Part 2.mp4
+Build%20A%20Custom%20VPC%20-%20Part%202.mp4
+#EXTINF:0,Network Address Translation (NAT).mp4
+Network%20Address%20Translation%20(NAT).mp4
+#EXTINF:0,Access Control Lists (ACLs).mp4
+Access%20Control%20Lists%20(ACLs).mp4
+#EXTINF:0,Custom VPCs and ELBs.mp4
+Custom%20VPCs%20and%20ELBs.mp4
+#EXTINF:0,VPC Flow Logs.mp4
+VPC%20Flow%20Logs.mp4
+#EXTINF:0,NATs vs Bastions.mp4
+NATs%20vs%20Bastions.mp4
+#EXTINF:0,VPC End Points.mp4
+VPC%20End%20Points.mp4
+#EXTINF:0,VPC Clean Up.mp4
+VPC%20Clean%20Up.mp4
+#EXTINF:0,Summary.mp4
+Summary.mp4
+#EXTINF:0,Building your first Amazon Virtual Private Cloud (VPC).mp4
+Building%20your%20first%20Amazon%20Virtual%20Private%20Cloud%20(VPC).mp4
+#EXTINF:0,Creating a Virtual Private Cloud (VPC) with AWS CloudFormation.mp4
+Creating%20a%20Virtual%20Private%20Cloud%20(VPC)%20with%20AWS%20CloudFormation.mp4
+#EXTINF:0,VPC Quiz.mp4
+VPC%20Quiz.mp4
+#EXTINF:0,SQS.mp4
+SQS.mp4
+#EXTINF:0,SWF.mp4
+SWF.mp4
+#EXTINF:0,SNS.mp4
+SNS.mp4
+#EXTINF:0,Elastic Transcoder.mp4
+Elastic%20Transcoder.mp4
+#EXTINF:0,API Gateway.mp4
+API%20Gateway.mp4
+#EXTINF:0,Kinesis 101.mp4
+Kinesis%20101.mp4
+#EXTINF:0,Kinesis Lab.mp4
+Kinesis%20Lab.mp4
+#EXTINF:0,Application Services Summary.mp4
+Application%20Services%20Summary.mp4
+#EXTINF:0,Application Services Quiz.mp4
+Application%20Services%20Quiz.mp4
+#EXTINF:0,Getting Setup.mp4
+Getting%20Setup.mp4
+#EXTINF:0,Setting Up EC2.mp4
+Setting%20Up%20EC2.mp4
+#EXTINF:0,AutoScaling.mp4
+AutoScaling.mp4
+#EXTINF:0,CloudFormation!.mp4
+CloudFormation!.mp4
+#EXTINF:0,Want To Be A Real Solutions Architect? You Need To Know CloudFormation!.mp4
+Want%20To%20Be%20A%20Real%20Solutions%20Architect%3F%20You%20Need%20To%20Know%20CloudFormation!.mp4
+#EXTINF:0,What Else Do I Need To Know?.mp4
+What%20Else%20Do%20I%20Need%20To%20Know%3F.mp4
+#EXTINF:0,Architecting for the AWS Cloud: Best Practices.mp4
+Architecting%20for%20the%20AWS%20Cloud%3A%20Best%20Practices.mp4
+#EXTINF:0,Introduction To The Well Architected Framework.mp4
+Introduction%20To%20The%20Well%20Architected%20Framework.mp4
+#EXTINF:0,Security.mp4
+Security.mp4
+#EXTINF:0,Reliability.mp4
+Reliability.mp4
+#EXTINF:0,Performance Efficiency.mp4
+Performance%20Efficiency.mp4
+#EXTINF:0,Cost Optimization.mp4
+Cost%20Optimization.mp4
+#EXTINF:0,Operational Excellence.mp4
+Operational%20Excellence.mp4
+#EXTINF:0,Summary.mp4
+Summary.mp4
+#EXTINF:0,Exam Tips Based On Student Feedback.mp4
+Exam%20Tips%20Based%20On%20Student%20Feedback.mp4
+#EXTINF:0,Consolidated Billing.mp4
+Consolidated%20Billing.mp4
+#EXTINF:0,AWS Organizations Lab.mp4
+AWS%20Organizations%20Lab.mp4
+#EXTINF:0,Cross Account Access.mp4
+Cross%20Account%20Access.mp4
+#EXTINF:0,Resource Groups & Tagging.mp4
+Resource%20Groups%20%26%20Tagging.mp4
+#EXTINF:0,VPC Peering.mp4
+VPC%20Peering.mp4
+#EXTINF:0,Direct Connect.mp4
+Direct%20Connect.mp4
+#EXTINF:0,Security Token Service.mp4
+Security%20Token%20Service.mp4
+#EXTINF:0,Active Directory Integration.mp4
+Active%20Directory%20Integration.mp4
+#EXTINF:0,Workspaces.mp4
+Workspaces.mp4
+#EXTINF:0,AWS Risk and Compliance Overview.mp4
+AWS%20Risk%20and%20Compliance%20Overview.mp4
+#EXTINF:0,ECS - Part 1 - What is Docker.mp4
+ECS%20-%20Part%201%20-%20What%20is%20Docker.mp4
+#EXTINF:0,ECS - Part 2 - What is ECS?.mp4
+ECS%20-%20Part%202%20-%20What%20is%20ECS%3F.mp4
+#EXTINF:0,Thank You To All My Students.mp4
+Thank%20You%20To%20All%20My%20Students.mp4
+#EXTINF:0,Scenario Quiz.mp4
+Scenario%20Quiz.mp4
+#EXTINF:0,Mini Exam.mp4
+Mini%20Exam.mp4
+#EXTINF:0,Final Practice Exam.mp4
+Final%20Practice%20Exam.mp4
